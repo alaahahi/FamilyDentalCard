@@ -26,6 +26,9 @@ Route::get('/Duhok-Smile', function () {
 Route::get('/Ziad-Dental', function () {
     return view('doctor.Ziad-Dental');
 });
+Route::get('/Ahad-Dental', function () {
+    return view('doctor.Ahad-Dental');
+});
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
         abort(400);

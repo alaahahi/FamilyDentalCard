@@ -295,78 +295,7 @@
 
             </div>
             <div class="border-button">
-              <a href="#" class="mb-2">قائمة الأسعار</a>
-              <table class="table table-info text-center">
-                <thead>
-                  <tr>
-                    <th scope="col">الخدمات</th>
-                    <th scope="col">السعر</th>
-                    <th scope="col">السعر بعد التخفيض</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>حشوة تجميلية للأسنان الأمامية</td>
-                    <td>60,000</td>
-                    <td>40,000</td>
-                  </tr>
-                  <tr>
-                    <td>حشوة تجميلية للأسنان الخلفية</td>
-                    <td>50,000</td>
-                    <td>35,000</td>
-                  </tr>
-                  <tr>
-                    <td>حشوة عصب</td>
-                    <td>180,000</td>
-                    <td>100,000</td>
-                  </tr>
-                  <tr>
-                    <td>قلع سن عادي</td>
-                    <td>25,000</td>
-                    <td>15,000</td>
-                  </tr>
-                  <tr>
-                    <td>غسل للأسنان</td>
-                    <td>50,000</td>
-                    <td>30,000</td>
-                  </tr>
-                  <tr>
-                    <td>عملية قلع سن العقل جراحياً</td>
-                    <td>150$</td>
-                    <td>60$</td>
-                  </tr>
-                  <tr>
-                    <td>زراعة الأسنان</td>
-                    <td>400$</td>
-                    <td>250$</td>
-                  </tr>
-                  <tr>
-                    <td>تبييض الأسنان</td>
-                    <td>100$</td>
-                    <td>60$</td>
-                  </tr>
-                  <tr>
-                    <td>طخم الأسنان</td>
-                    <td>700,000</td>
-                    <td>500,000</td>
-                  </tr>
-                  <tr>
-                    <td>تغليف الأسنان بالسيراميك</td>
-                    <td>80$</td>
-                    <td>50$</td>
-                  </tr>
-                  <tr>
-                    <td>تغليف الأسنان بالزركون</td>
-                    <td>150$</td>
-                    <td>100$</td>
-                  </tr>
-                  <tr>
-                    <td>تغليف الأسنان بالايماكس</td>
-                    <td>200$</td>
-                    <td>140$</td>
-                  </tr>
-                </tbody>
-              </table>
+              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>
