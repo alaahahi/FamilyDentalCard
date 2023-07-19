@@ -38,6 +38,9 @@ Route::get('/Brand-Center-Dental', function () {
 Route::get('/Magic-Smile', function () {
     return view('doctor.Magic-Smile');
 });
+Route::get('/Hussein-Abdullah', function () {
+    return view('doctor.Hussein-Abdullah');
+});
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
         abort(400);
