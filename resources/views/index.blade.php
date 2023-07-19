@@ -316,63 +316,8 @@
               <span class="likes"><i class="fa fa-heart"></i> 07502101616</span>
             </div>
             <div class="border-button">
-              <a href="#" class="mb-2">قائمة الأسعار</a>
-              <table class="table table-info text-center">
-                <thead>
-                  <tr>
-                    <th scope="col">الخدمات</th>
-                    <th scope="col">السعر</th>
-                    <th scope="col">السعر بعد التخفيض</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>حشو مع عصب</td>
-                    <td>120</td>
-                    <td>70</td>
-                  </tr>
-                  <tr>
-                    <td>غلاف سيراميك</td>
-                    <td>100,000</td>
-                    <td>70,000</td>
-                  </tr>
-                  <tr>
-                    <td>غلاف زيركون</td>
-                    <td>100$</td>
-                    <td>70$</td>
-                  </tr>
-                  <tr>
-                    <td>غلاف ايماكس</td>
-                    <td>130$</td>
-                    <td>100$</td>
-                  </tr>
-                  <tr>
-                    <td>زراعة اسنان</td>
-                    <td>350$</td>
-                    <td>250$</td>
-                  </tr>
-                  <tr>
-                    <td>قلع سن</td>
-                    <td>10,000</td>
-                    <td>25,000</td>
-                  </tr>
-                  <tr>
-                    <td>قلع (جراحة)</td>
-                    <td>100$</td>
-                    <td>30$</td>
-                  </tr>
-                  <tr>
-                    <td>تبييض بالليزر</td>
-                    <td>120$</td>
-                    <td>100,000</td>
-                  </tr>
-                  <tr>
-                    <td>حشو</td>
-                    <td>50</td>
-                    <td>30</td>
-                  </tr>
-                </tbody>
-              </table>
+              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار</a>
+     
               
             </div>
           </div>
@@ -385,7 +330,7 @@
               </div>
               <div class="right">
                 <h4>صميم حبيب ابراهيم</h4>
-                <span>ماجستير جراحة اللثة وزراعة الأسنان</span>
+                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
               </div>
             </div>
             <div class="thumb">
@@ -394,93 +339,8 @@
               <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
             <div class="border-button">
-              <a href="#" class="mb-2">قائمة الأسعار</a>
-              <table class="table table-info text-center">
-                <thead>
-                  <tr>
-                    <th scope="col">الخدمات</th>
-                    <th scope="col">السعر</th>
-                    <th scope="col">السعر بعد التخفيض</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>فحص</td>
-                    <td>Free</td>
-                    <td>Free</td>
-                  </tr>
-                  <tr>
-                    <td>أشعه فمويه</td>
-                    <td>15,000</td>
-                    <td>Free</td>
-                  </tr>
-                  <tr>
-                    <td>P.Aغسل مجاني لكل شخصمن عائله</td>
-                    <td>-</td>
-                    <td>Free</td>
-                  </tr>
-                  <tr>
-                    <td>قلع سن</td>
-                    <td>25,000</td>
-                    <td>15,000</td>
-                  </tr>
-                  <tr>
-                    <td>حشوة</td>
-                    <td>60,000</td>
-                    <td>40,000</td>
-                  </tr>
-                  <tr>
-                    <td>حشو عصب</td>
-                    <td>180,000</td>
-                    <td>125,000</td>
-                  </tr>
-                  <tr>
-                    <td>غسل</td>
-                    <td>60,000</td>
-                    <td>35,000</td>
-                  </tr>
-                  <tr>
-                    <td>تركيب سن سيراميك</td>
-                    <td>140,000</td>
-                    <td>90,000</td>
-                  </tr>
-                  <tr>
-                    <td>تركيب سن زركون</td>
-                    <td>200,000</td>
-                    <td>140,000</td>
-                  </tr>
-                  <tr>
-                    <td>تركيب سن ايماكس</td>
-                    <td>350,000</td>
-                    <td>225,000</td>
-                  </tr>
-                  <tr>
-                    <td>فينييرهوليودسمايل</td>
-                    <td>350,000</td>
-                    <td>225,000</td>
-                  </tr>
-                  <tr>
-                    <td>تبييض بالليزر</td>
-                    <td>300,000</td>
-                    <td>200,000</td>
-                  </tr>
-                  <tr>
-                    <td>أشعة بانوراما</td>
-                    <td>25,000</td>
-                    <td>15,000</td>
-                  </tr>
-                  <tr>
-                    <td>زراعة أسنان ألمانية</td>
-                    <td>500$</td>
-                    <td>300$</td>
-                  </tr>
-                  <tr>
-                    <td>طقم متحرك</td>
-                    <td>-</td>
-                    <td>-</td>
-                  </tr>
-                </tbody>
-              </table>
+              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
+           
               
               
             </div>
@@ -504,81 +364,7 @@
                 دهوك - مالتا / نەخوشخانا ڤین </span>
             </div>
             <div class="border-button">
-              <a href="#" class="mb-2">قائمة الأسعار</a>
-              <table class="table table-info text-center">
-                <thead>
-                  <tr>
-                    <th scope="col">الخدمات</th>
-                    <th scope="col">السعر</th>
-                    <th scope="col">السعر بعد التخفيض</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Composite Filling</td>
-                    <td></td>
-                    <td>40,000</td>
-                  </tr>
-                  <tr>
-                    <td>Scalling and polishing</td>
-                    <td></td>
-                    <td>40,000</td>
-                  </tr>
-                  <tr>
-                    <td>Root Canal Treatment with final filling</td>
-                    <td></td>
-                    <td>100,000 (One canal) / 120,000 (Multi)</td>
-                  </tr>
-                  <tr>
-                    <td>Pulpotomy</td>
-                    <td></td>
-                    <td>75,000</td>
-                  </tr>
-                  <tr>
-                    <td>Pulpectomy</td>
-                    <td></td>
-                    <td>75,000</td>
-                  </tr>
-                  <tr>
-                    <td>Normal tooth extraction</td>
-                    <td></td>
-                    <td>25,000</td>
-                  </tr>
-                  <tr>
-                    <td>Surgical tooth extraction</td>
-                    <td></td>
-                    <td>150,000</td>
-                  </tr>
-                  <tr>
-                    <td>Tooth build up</td>
-                    <td></td>
-                    <td>70,000</td>
-                  </tr>
-                  <tr>
-                    <td>Crown per tooth (PFM)</td>
-                    <td></td>
-                    <td>135,000</td>
-                  </tr>
-                  <tr>
-                    <td>Periapical x-ray film</td>
-                    <td></td>
-                    <td>Free</td>
-                  </tr>
-                  <tr>
-                    <td>Orthodontics (تقويم فكين نظام الثابت 3D)</td>
-                    <td></td>
-                    <td>1,600$</td>
-                  </tr>
-                  <tr>
-                    <td>Veneers (Hollywood smile)</td>
-                    <td></td>
-                    <td>150$ per tooth (Fixed price for a single tooth) / 200$ per tooth (Varies based on material type)</td>
-                  </tr>
-                </tbody>
-              </table>
-              
-              
-              
+              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>

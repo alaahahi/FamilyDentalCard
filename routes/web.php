@@ -29,6 +29,15 @@ Route::get('/Ziad-Dental', function () {
 Route::get('/Ahad-Dental', function () {
     return view('doctor.Ahad-Dental');
 });
+Route::get('/Pro-Smile-Dental', function () {
+    return view('doctor.Pro-Smile-Dental');
+});
+Route::get('/Brand-Center-Dental', function () {
+    return view('doctor.Brand-Center-Dental');
+});
+Route::get('/Magic-Smile', function () {
+    return view('doctor.Magic-Smile');
+});
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
         abort(400);
