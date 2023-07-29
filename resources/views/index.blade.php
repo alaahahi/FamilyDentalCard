@@ -398,20 +398,98 @@
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
+                <img src="assets/images/icon-08.png" alt="">
+              </div>
+              <div class="right">
+                <h4>محمد أنور </h4>
+                <span>
+                  ماستر في معالجة وتجميل الأسنان
+                  دكتورا معالجة وتجميل الأسنان
+                </span>
+              </div>
+            </div>
+            <div class="thumb">
+              <video width="100%" height="395" controls>
+                <source src="assets/images/popular-08.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+
+              <span class="category">
+              07502228090</span>
+              <span class="likes"> رقم الهاتف</span>
+            </div>
+            <div class="border-button">
+              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار</a>            
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-09.png" alt="">
+              </div>
+              <div class="right">
+                <h4>روج عزيز </h4>
+                <span>
+                B.D.S. M.Sc. in Prosthodontics 
+                </span>
+              </div>
+            </div>
+            <div class="thumb">
+              <video width="100%" height="395" controls>
+                <source src="assets/images/popular-09.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+
+              <span class="category">
+              07504426445</span>
+              <span class="likes"> رقم الهاتف</span>
+            </div>
+            <div class="border-button">
+              <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار</a>            
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
+                <h4>ايفان نمرود يوحنا</h4>
+                <span>دكتوراه جراحة الفم والاسنان - زراعة الاسنان ماجستير جراحة الوجه والفكين</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img50.jpg" alt="">
+              <span class="category">07504747508</span>
+              <span class="likes">دوهك-نه خوشخانا شيلان</span>
+            </div>
+            <div class="border-button">
+              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-11.png" alt="">
+              </div>
+              <div class="right">
+                <h4> طلال</h4>
                 <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
+              <img src="assets/images/img55.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
             </div>
             <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
+              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -425,113 +503,17 @@
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
+                <h4>ايمان ابراهيم محمد شريف</h4>
                 <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
               </div>
             </div>
             <div class="thumb">
               <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
+              <span class="category"></span>
+              <span class="likes"></span>
             </div>
             <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
-            </div>
-            <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
-            </div>
-            <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
-            </div>
-            <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>صميم حبيب ابراهيم</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
-            </div>
-            <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
+              <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار</a>
            
               
               

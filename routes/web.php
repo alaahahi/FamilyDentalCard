@@ -38,8 +38,23 @@ Route::get('/Brand-Center-Dental', function () {
 Route::get('/Magic-Smile', function () {
     return view('doctor.Magic-Smile');
 });
+Route::get('/Mohammed-Anwer', function () {
+    return view('doctor.Mohammed-Anwer');
+});
+Route::get('/Roj-Aziz', function () {
+    return view('doctor.Roj-Aziz');
+});
+Route::get('/Evan-Nimrod', function () {
+    return view('doctor.Evan-Nimrod');
+});
+Route::get('/Atta-Dental', function () {
+    return view('doctor.Atta-Dental');
+});
 Route::get('/Hussein-Abdullah', function () {
     return view('doctor.Hussein-Abdullah');
+});
+Route::get('/Eman-Ibrahim', function () {
+    return view('doctor.Eman-Ibrahim');
 });
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
@@ -51,4 +66,13 @@ Route::get('/greeting/{locale}', function (string $locale) {
     return redirect()->back(); // Redirect back to the previous page
 
     // ...
+});
+Route::middleware([
+    'auth:sanctum',
+    config('jetstream.auth_session'),
+    'verified'
+])->group(function () {
+    Route::get('/dashboard', function () {
+        return view('dashboard');
+    })->name('dashboard');
 });

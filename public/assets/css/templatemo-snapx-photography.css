@@ -1160,7 +1160,7 @@ section.popular-categories .main-button {
 
 .popular-item .icon img {
   max-width: 36px;
-  border-radius: 0px;
+  border-radius: 5px;
 }
 
 .popular-item h4 {
@@ -2061,7 +2061,7 @@ Categories Page
 
 .top-categories .item .icon img {
   max-width: 36px;
-  border-radius: 0px;
+  border-radius: 5px;
 }
 
 .top-categories .item h4 {
