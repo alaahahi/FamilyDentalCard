@@ -56,6 +56,19 @@ Route::get('/Hussein-Abdullah', function () {
 Route::get('/Eman-Ibrahim', function () {
     return view('doctor.Eman-Ibrahim');
 });
+Route::get('/Smile-Design', function () {
+    return view('doctor.Smile-Design');
+});
+Route::get('/Snow-Center', function () {
+    return view('doctor.Snow-Center');
+});
+Route::get('/Salar-Dental', function () {
+    return view('doctor.Salar-Dental');
+});
+Route::get('/Duhok-Center', function () {
+    return view('doctor.Duhok-Center');
+});
+
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
         abort(400);

@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col-lg-10 offset-lg-1">
           <div class="header-text">
-            <h2>Family <em>Dental</em> Card </h2>
+            <h2>Snow  <em>Dental</em> Center </h2>
             <p class="fs-4">
               بطاقة طب الأسنان العائلية هي عبارة عن خدمة للأفراد وعائلاتهم لمنح تخفيضات على العلاج الطبي والأسنان.يشمل ذلك الكشوفات الروتينية وتنظيف الأسنان ومعالجة التسوس والتركيبات والتقويم وغيرها من الخدمات المتعلقة بالأسنان             
             </p>
@@ -514,6 +514,103 @@
             </div>
             <div class="border-button">
               <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Smile Design</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img62.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Smile-Design" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Snow Dental Center</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-05.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Snow-Center" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-15.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Salar Dental Clinic</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زراعة الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <video width="100%" height="395" controls>
+                  <source src="assets/images/popular-15.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                </video> 
+            </div>
+            <div class="border-button">
+              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>مركز دهوك التخصصي للاسنان</h4>
+                <span>أفضل الأطباء</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-05.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Duhok-Center" class="mb-2">قائمة الأسعار</a>
            
               
               
