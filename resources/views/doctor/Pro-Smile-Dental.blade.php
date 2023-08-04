@@ -186,7 +186,7 @@
                   <span> 07502101616</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author4.jpg" style="width:225px">
+                  {{-- <img src="assets/images/author4.jpg" style="width:225px"> --}}
                 </div>
               </div>
             </div>

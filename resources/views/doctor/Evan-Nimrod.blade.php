@@ -67,7 +67,7 @@
       </div>
     </div>
   </div>
-  <section class="featured-contests" dir="rtl">
+  <section class="featured-contests">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -128,38 +128,48 @@
                 <tr>
                     <td>40.000</td>
                     <td>60.000</td>
-                    <td>Filling CoranicNo.1</td>
+                    <td>حشوة</td>
                 </tr>
                 <tr>
                     <td>600$</td>
                     <td>700$</td>
-                    <td>Implant (Italy-swiss-koter)</td>
+                    <td>زراعة اسنان ايطالي</td>
                 </tr>
                 <tr>
+                    <td>100.000</td>
                     <td>120.000</td>
-                    <td>150.000</td>
-                    <td>Endo2+3canal</td>
+                    <td>حشوة عصب 2*3 قناة</td>
+                </tr>
+                <tr>
+                    <td>100.000</td>
+                    <td>120.000</td>
+                    <td>حشوة عصب قناة واحدة</td>
                 </tr>
                 <tr>
                     <td>80$</td>
                     <td>100$</td>
-                    <td>1canal</td>
+                    <td>غلاف سراميك</td>
                 </tr>
                 <tr>
                     <td>150$</td>
-                    <td>180$</td>
-                    <td>Bridge grown ceramic</td>
+                    <td>200$</td>
+                    <td>غلاف زيركون</td>
                 </tr>
                 <tr>
-                    <td>180$</td>
-                    <td>200$</td>
-                    <td>Zircon E.Max</td>
-                </tr>
+                  <td>180$</td>
+                  <td>210$</td>
+                  <td>غلاف ايماكس</td>
+              </tr>
                 <tr>
                     <td>200$</td>
                     <td>250$</td>
-                    <td>Hollywood smile</td>
+                    <td>ابتسامة هوليوود</td>
                 </tr>
+                <tr>
+                  <td>1400$</td>
+                  <td>2000$</td>
+                  <td>تقويم الأسنان</td>
+              </tr>
             </tbody>
         </table>
 

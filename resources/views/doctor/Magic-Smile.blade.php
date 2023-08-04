@@ -138,7 +138,7 @@
                   <tr>
                     <td>تقويم الأسنان (تقويم فكين نظام الثابت 3D)</td>
                     <td></td>
-                    <td>1,600$</td>
+                    <td>بالاقساظ كل شهر 100 الف دسنار</td>
                   </tr>
                   <tr>
                     <td>تلبيسات الأسنان (ابتسامة هوليوود)</td>
@@ -211,7 +211,7 @@
                   <span>07503043030</span>
                 </div>
                 <div class="image">
-                  <!-- <img src="assets/images/author1.jpg" style="width:225px"> -->
+                  <img src="assets/images/author4.jpg" style="width:225px">
                 </div>
               </div>
             </div>

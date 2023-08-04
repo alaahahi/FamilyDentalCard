@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>salar</em> Dental Clinic </h2>
+          <h2><em>Snow Center</em> Dental Clinic </h2>
           <p>  بكالوريوس جراحة الأسنان (BDS) - ماستر في معالجة وتجميل الأسنان </p>
         </div>
       </div>
@@ -112,18 +112,13 @@
                   <td>تغليف (فينير) ايماكس</td>
                 </tr>
                 <tr>
-                  <td>220$</td>
-                  <td>300$</td>
-                  <td>تغليف وفينير ايماكس (دبي)</td>
-                </tr>
-                <tr>
                   <td>30.000</td>
                   <td>50.000</td>
                   <td>تنظيف</td>
                 </tr>
                 <tr>
-                  <td>160.000</td>
-                  <td>20.00000</td>
+                  <td>1.600.000</td>
+                  <td>2.000.000</td>
                   <td>تقويم الأسنان</td>
                 </tr>
                 <tr>
@@ -137,7 +132,7 @@
                   <td>قلع الاسنان</td>
                 </tr>
                 <tr>
-                  <td>10.0000</td>
+                  <td>100.000</td>
                   <td>150.000</td>
                   <td>قلع جراحي</td>
                 </tr>
