@@ -313,7 +313,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/img80.jpg" alt="">
+              <img src="assets/images/popular-02.jpg" alt="">
               <span class="category">دهوك - شارع KRO - خلف ماكسي مول</span>
               <span class="likes">07502520202</span>
             </div>
