@@ -119,11 +119,8 @@
 	$(window).resize(function() {
 		if(($window.width() <= 768) && (context != 'small')) {
 			//refresh the page
-			location.reload();
 		} else if ((768 < $window.width()  < 970) && (context != 'medium')) {
-			location.reload();
 		} else if (context != 'large') {
-			location.reload();
 		}
 	});
 
