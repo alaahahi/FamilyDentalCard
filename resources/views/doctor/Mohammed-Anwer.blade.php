@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>Mohammed Anwer </em> Dental</h2>
+          <h2><em>One Global  </em> Hospital</h2>
           <p>  بكالوريوس طب وجراحة الفم والاسنان </p>
         </div>
       </div>

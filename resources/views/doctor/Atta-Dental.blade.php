@@ -139,22 +139,22 @@
                 <tr>
                     <td>180$</td>
                     <td>200$</td>
-                    <td>تلبيس زركون Crown (Z)</td>
+                    <td>كراس- تلبيس زركون Crown (Z)</td>
                 </tr>
                 <tr>
                     <td>90$</td>
                     <td>120$</td>
-                    <td>تلبيس سيراميك Crown (s)</td>
+                    <td>كراس- تلبيس سيراميك Crown (s)</td>
                 </tr>
                 <tr>
                     <td>300$</td>
                     <td>350$</td>
-                    <td>تلبيس ايماكس Crown (emaX)</td>
+                    <td>كراس- تلبيس ايماكس Crown (emaX)</td>
                 </tr>
                 <tr>
                     <td>400$-600$</td>
                     <td>750$</td>
-                    <td>زرع Implant k</td>
+                    <td>زرع- جاندني ددان Implant k</td>
                 </tr>
             </tbody>
         </table>

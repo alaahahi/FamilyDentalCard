@@ -68,6 +68,12 @@ Route::get('/Salar-Dental', function () {
 Route::get('/Duhok-Center', function () {
     return view('doctor.Duhok-Center');
 });
+Route::get('/Be-Smile-Duhok', function () {
+    return view('doctor.Be-Smile-Duhok');
+});
+Route::get('/Be-Smile-Zakho', function () {
+    return view('doctor.Be-Smile-Zakho');
+});
 
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
