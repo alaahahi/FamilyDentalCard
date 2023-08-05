@@ -220,7 +220,7 @@
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>Duhok B Smile</h4>
+                <h4> Be Smile</h4>
                 <span>
                   بكالوريوس جراحة الأسنان (BDS)
                   ماستر في معالجة وتجميل الأسنان
@@ -229,10 +229,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
-                <source src="assets/images/popular-18.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
+              <img src="assets/images/img80.jpg" alt="">
 
               <span class="category">
                 دهوك</span>
@@ -316,7 +313,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-02.jpg" alt="">
+              <img src="assets/images/img80.jpg" alt="">
               <span class="category">دهوك - شارع KRO - خلف ماكسي مول</span>
               <span class="likes">07502520202</span>
             </div>

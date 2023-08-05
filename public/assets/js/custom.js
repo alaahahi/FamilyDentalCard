@@ -80,49 +80,28 @@
 	})();
 	
 
-	(function init() {
-		function getTimeRemaining(endtime) {
-		  var t = Date.parse(endtime) - Date.parse(new Date());
-		  var seconds = Math.floor((t / 1000) % 60);
-		  var minutes = Math.floor((t / 1000 / 60) % 60);
-		  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
-		  var days = Math.floor(t / (1000 * 60 * 60 * 24));
-		  return {
-			'total': t,
-			'days': days,
-			'hours': hours,
-			'minutes': minutes,
-			'seconds': seconds
-		  };
-		}
-		
-		function initializeClock(endtime){
-;
-	  }
-	  initializeClock(((new Date()).getFullYear()+1) + "/1/1")
-	})()
 
 	var context;
 	var $window = $(window);
 
 	// run this right away to set context
-	if ($window.width() <= 768) {
-		context = 'small';
-	} else if (768 < $window.width() < 970) {
-		context = 'medium';
-	} else {
-		context = 'large';
-	}
+	// if ($window.width() <= 768) {
+	// 	context = 'small';
+	// } else if (768 < $window.width() < 970) {
+	// 	context = 'medium';
+	// } else {
+	// 	context = 'large';
+	// }
 
 	// refresh the page only if you're crossing into a context
 	// that isn't already set
-	$(window).resize(function() {
-		if(($window.width() <= 768) && (context != 'small')) {
-			//refresh the page
-		} else if ((768 < $window.width()  < 970) && (context != 'medium')) {
-		} else if (context != 'large') {
-		}
-	});
+	// $(window).resize(function() {
+	// 	if(($window.width() <= 768) && (context != 'small')) {
+	// 		//refresh the page
+	// 	} else if ((768 < $window.width()  < 970) && (context != 'medium')) {
+	// 	} else if (context != 'large') {
+	// 	}
+	// });
 
 	$("#modal_trigger").leanModal({
 		top: 100,
