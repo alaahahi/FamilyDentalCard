@@ -173,11 +173,11 @@
   </section>
 
 
-  <section class="popular-categories" dir="rtl">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="section-heading">
+  <section class="popular-categories pt-5 mt-5" dir="rtl">
+    <div class="container-fluid  mt-5">
+      <div class="row  mt-5">
+        <div class="col-lg-6  mt-5">
+          <div class="section-heading  mt-5">
             <h6>المراكز الطبية المعتمدة</h6>
             <h4>جميع <em>المراكز الطبية</em> المعتمدة في <em>Family Dental Card</em></h4>
           </div>
