@@ -26,7 +26,7 @@
 
   <script src="assets/js/tabs.js"></script>
   <script src="assets/js/popup.js"></script>
-  <script src="assets/js/custom.js"></script>
+  <script src="assets/js/custom1.js"></script>
 
   </body>
 </html>
