@@ -576,7 +576,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
+              <img src="assets/images/popular-222.jpg" alt="">
               <span class="category"></span>
               <span class="likes"></span>
             </div>
@@ -625,7 +625,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
+              <img src="assets/images/img05.jpg" alt="">
               <span class="category"></span>
               <span class="likes"></span>
             </div>
@@ -679,7 +679,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
+              <img src="assets/images/popular-111.jpg" alt="">
               <span class="category"></span>
               <span class="likes"></span>
             </div>
