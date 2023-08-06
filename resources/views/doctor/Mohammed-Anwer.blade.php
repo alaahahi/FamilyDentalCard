@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-08.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4> x ray - pa صورة</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,27 +39,7 @@
             <div class="icon">
               <img src="assets/images/icon-08.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-08.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-08.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -87,7 +67,7 @@
             <tbody>
                 <tr>
                     <td>30.000</td>
-                    <td>45.000</td>
+                    <td>60.000</td>
                     <td>حشوة عادية</td>
                 </tr>
                 <tr>
@@ -98,22 +78,22 @@
                 <tr>
                     <td>100.000</td>
                     <td>140.000</td>
-                    <td>Endo Posterior</td>
+                    <td>قطع عصب خلفي</td>
                 </tr>
                 <tr>
                     <td>80.000</td>
                     <td>120.000</td>
-                    <td>Endo Anterior</td>
+                    <td>قطع عصب امامي</td>
                 </tr>
                 <tr>
                     <td>75.000</td>
                     <td>100.000</td>
-                    <td>Crown Ceramic</td>
+                    <td>غلاف Ceramic</td>
                 </tr>
                 <tr>
                     <td>110.000</td>
                     <td>150.000</td>
-                    <td>Crown Zircon</td>
+                    <td>غلاف Zircon</td>
                 </tr>
                 <tr>
                     <td>100$</td>
@@ -143,17 +123,17 @@
                 <tr>
                     <td>400$</td>
                     <td>550$</td>
-                    <td>Implants etk</td>
+                    <td>زرعة اسنان فرنسي</td>
                 </tr>
                 <tr>
                     <td>350$</td>
                     <td>450$</td>
-                    <td>Implants كوري</td>
+                    <td>زرعة اسنان كوري</td>
                 </tr>
                 <tr>
                     <td>400$</td>
                     <td>500$</td>
-                    <td>Implants الماني</td>
+                    <td>زرعة اسنان الماني</td>
                 </tr>
             </tbody>
         </table>

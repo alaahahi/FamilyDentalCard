@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-01.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4> OBG - CBCT  صورة</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,7 +39,7 @@
             <div class="icon">
               <img src="assets/images/icon-01.png" alt="">
             </div>
-            <h4>pa صورة </h4>
+            <h4>pa - X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -49,21 +49,12 @@
             <div class="icon">
               <img src="assets/images/icon-01.png" alt="">
             </div>
-            <h4> غسل أسنان </h4>
+            <h4> غسل أسنان وبولش</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
         </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-01.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
+
       </div>
     </div>
   </div>
@@ -111,13 +102,9 @@
                   <td>250$</td>
                   <td>تغليف (فينير) ايماكس</td>
                 </tr>
+  
                 <tr>
-                  <td>30.000</td>
-                  <td>50.000</td>
-                  <td>تنظيف</td>
-                </tr>
-                <tr>
-                  <td>1.600.000</td>
+                  <td>1.600.000 تقسيط شهري</td>
                   <td>2.000.000</td>
                   <td>تقويم الأسنان</td>
                 </tr>

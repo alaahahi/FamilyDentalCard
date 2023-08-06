@@ -205,7 +205,7 @@
               <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
             <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
@@ -236,7 +236,7 @@
               <span class="likes"> العنوان</span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>            
+              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
             </div>
           </div>
         </div>
@@ -267,7 +267,7 @@
               <span class="likes"> العنوان</span>
             </div>
             <div class="border-button">
-              <a href="/Duhok-Smile" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>            
+              <a href="/Duhok-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
             </div>
           </div>
         </div>
@@ -296,68 +296,7 @@
               <span class="likes"> رقم الهاتف</span>
             </div>
             <div class="border-button">
-              <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>            
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-02.png" alt="">
-              </div>
-              <div class="right">
-                <h4>Ziad Dental</h4>
-                <span>بكالوريوس جراحة الأسنان (BDS)</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-02.jpg" alt="">
-              <span class="category">دهوك - شارع KRO - خلف ماكسي مول</span>
-              <span class="likes">07502520202</span>
-            </div>
-            <div class="border-button">
-              <a href="/Ziad-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>       
-              <!-- <table class="table table-info text-center">
-                <thead>
-                  <tr>
-                    <th scope="col">الخدمات</th>
-                    <th scope="col">السعر بعد التخفيض</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>حشوة تجميلية</td>
-                    <td>35,000 IQD</td>
-                  </tr>
-                  <tr>
-                    <td>حشوة عصب</td>
-                    <td>80,000 IQD</td>
-                  </tr>
-                  <tr>
-                    <td>قلع السن</td>
-                    <td>15,000 IQD</td>
-                  </tr>
-                  <tr>
-                    <td>قلع سن العقل</td>
-                    <td>25,000 IQD</td>
-                  </tr>
-                  <tr>
-                    <td>زرع- جاندني ددان السن</td>
-                    <td>250 $</td>
-                  </tr>
-                  <tr>
-                    <td>زركون</td>
-                    <td>80 $</td>
-                  </tr>
-                  <tr>
-                    <td>أيماكس</td>
-                    <td>100 $</td>
-                  </tr>
-                </tbody>
-              </table> -->
-              
+              <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
             </div>
           </div>
         </div>
@@ -369,7 +308,7 @@
                 <img src="assets/images/icon-05.png" alt="">
               </div>
               <div class="right">
-                <h4>Magic-Smile</h4>
+                <h4>Magic Smile - د.أنيس</h4>
                 <span>ماجستير جراحة اللثة وزرع- جاندني ددان الأسنان</span>
               </div>
             </div>
@@ -380,7 +319,7 @@
                 دهوك - مالتا / نەخوشخانا ڤین </span>
             </div>
             <div class="border-button">
-              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
             </div>
           </div>
         </div>
@@ -392,7 +331,7 @@
                 <img src="assets/images/icon-08.png" alt="">
               </div>
               <div class="right">
-                <h4> One Global Hospital</h4>
+                <h4> One Global Hospital - محمد أنوار</h4>
                 <span>
                   ماستر في معالجة وتجميل الأسنان
                   دكتورا معالجة وتجميل الأسنان
@@ -410,11 +349,11 @@
               <span class="likes"> رقم الهاتف</span>
             </div>
             <div class="border-button">
-              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>            
+              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
             </div>
           </div>
         </div>
-
+ 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -432,11 +371,11 @@
               <span class="likes">دوهك-نه خوشخانا شيلان</span>
             </div>
             <div class="border-button">
-              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
             </div>
           </div>
         </div>
-
+ 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -454,12 +393,39 @@
               <span class="likes"><i class="fa fa-heart"></i> 07502101616</span>
             </div>
             <div class="border-button">
-              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
      
               
             </div>
           </div>
         </div>
+
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-11.png" alt="">
+              </div>
+              <div class="right">
+                <h4> د.طلال أمباير دينتال</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img55.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+
+  
 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
@@ -479,7 +445,32 @@
 
             </div>
             <div class="border-button">
-              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Smile Design زاخو</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img62.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Smile-Design" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
             </div>
           </div>
         </div>
@@ -503,7 +494,7 @@
               <span class="likes">دهوط - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
             </div>
             <div class="border-button">
-              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
@@ -511,31 +502,9 @@
           </div>
         </div>
 
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-11.png" alt="">
-              </div>
-              <div class="right">
-                <h4> طلال</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/img55.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
-            </div>
-            <div class="border-button">
-              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
+    
 
+   
 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
@@ -544,31 +513,7 @@
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>Smile Design</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/img62.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
-            </div>
-            <div class="border-button">
-              <a href="/Smile-Design" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>Snow Dental Center</h4>
+                <h4>Snow Dental Center زاخو</h4>
                 <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
               </div>
             </div>
@@ -578,13 +523,38 @@
               <span class="likes"></span>
             </div>
             <div class="border-button">
-              <a href="/Snow-Center" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Snow-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
             </div>
           </div>
         </div>
+
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-02.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Ziad Dental</h4>
+                <span>بكالوريوس جراحة الأسنان (BDS)</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-02.jpg" alt="">
+              <span class="category">دهوك - شارع KRO - خلف ماكسي مول</span>
+              <span class="likes">07502520202</span>
+            </div>
+            <div class="border-button">
+              <a href="/Ziad-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>       
+           
+              
+            </div>
+          </div>
+        </div> 
+        
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -592,7 +562,7 @@
                 <img src="assets/images/icon-15.png" alt="">
               </div>
               <div class="right">
-                <h4>Salar Dental Clinic</h4>
+                <h4>Salar Dental زاخو</h4>
                 <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
               </div>
             </div>
@@ -603,7 +573,31 @@
                 </video> 
             </div>
             <div class="border-button">
-              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>ندى عبد الأمير عطار</h4>
+                <span>ماجستير</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-111.jpg" alt="">
+              <span class="category"></span>
+              <span class="likes"></span>
+            </div>
+            <div class="border-button">
+              <a href="/Nada-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
@@ -627,7 +621,7 @@
               <span class="likes"></span>
             </div>
             <div class="border-button">
-              <a href="/Duhok-Center" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Duhok-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
@@ -660,7 +654,7 @@
               <span class="likes"> العنوان</span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>            
+              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
             </div>
           </div>
         </div>
@@ -681,13 +675,14 @@
               <span class="likes"></span>
             </div>
             <div class="border-button">
-              <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار - تخفيضات من 30 % حتى 70% .</a>
+              <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
             </div>
           </div>
         </div>
+     
       </div>
     </div>
   </section>

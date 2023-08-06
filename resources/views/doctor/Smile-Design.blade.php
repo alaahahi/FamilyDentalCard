@@ -17,7 +17,7 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
             <h4>فحص مجاني</h4>
             <span>الخدمات المجانية</span>
@@ -27,9 +27,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>pa- X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -37,29 +37,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -120,11 +100,6 @@
                   <td>270$</td>
                   <td>300$</td>
                   <td>تغليف ايماكس(مختبر دبي)</td>
-                </tr>
-                <tr>
-                  <td>40.000</td>
-                  <td>50.000</td>
-                  <td>تنظيف أسنان</td>
                 </tr>
                 <tr>
                   <td>1.200.000</td>

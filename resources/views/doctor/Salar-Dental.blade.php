@@ -17,7 +17,7 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-15.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
             <h4>فحص مجاني</h4>
             <span>الخدمات المجانية</span>
@@ -27,9 +27,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-15.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>pa- X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -37,29 +37,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-15.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-15.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-15.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -99,7 +79,7 @@
                 <tr>
                   <td>100.000</td>
                   <td>140.000</td>
-                  <td>حشوة عصب اماميه</td>
+                  <td>حشوة عصب خلفي</td>
                 </tr>
                 <tr>
                   <td>100.000</td>
@@ -137,7 +117,7 @@
                   <td>طقم كامل</td>
                 </tr>
                 <tr>
-                  <td>1000$</td>
+                  <td>1000$ أقساط شهري</td>
                   <td>1600$</td>
                   <td>تقويم</td>
                 </tr>
@@ -235,13 +215,30 @@
                   ماستر في معالجة وتجميل الأسنان
                   </p>
                   <h4>د . سالار</h4>
-                  <span>07507680625</span>
+                  <span>07507680625 زاخو</span>
                 </div>
                 <div class="image">
                   <img src="assets/images/author15.jpg" style="width:225px">
                 </div>
               </div>
             </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                  بكالوريوس جراحة الأسنان (BDS)
+                  ماستر في معالجة وتجميل الأسنان
+                  </p>
+                  <h4>د . سالار</h4>
+                  <span>07509102030 زاخو</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author15.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>

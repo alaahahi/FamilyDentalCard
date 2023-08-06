@@ -17,7 +17,7 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
+              <img src="assets/images/icon-09.png" alt="">
             </div>
             <h4>فحص مجاني</h4>
             <span>الخدمات المجانية</span>
@@ -27,9 +27,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
+              <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4> OBG - CBCT  صورة</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -37,29 +37,20 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
+              <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4>pa صورة </h4>
+            <h4>pa - X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
         </div>
+
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
+              <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -85,6 +76,16 @@
                 </tr>
             </thead>
             <tbody>
+              <tr>
+                <td>400$</td>
+                <td>600$</td>
+                <td>زرع- جاندني ددان كوري</td>
+                </tr>
+                <tr>
+                <td>600$</td>
+                <td>750$</td>
+                <td>زرع- جاندني ددان ايطالي</td>
+                </tr>
                 <tr>
                     <td>40.000</td>
                     <td>60.000</td>
@@ -110,11 +111,7 @@
                     <td>40.000</td>
                     <td>قلع EXO</td>
                 </tr>
-                <tr>
-                    <td>200.000</td>
-                    <td>250.000</td>
-                    <td>قلع سن العقل عملية</td>
-                </tr>
+
                 <tr>
                     <td>100.000</td>
                     <td>120.000</td>
@@ -135,26 +132,6 @@
                     <td>200.000</td>
 
                     <td>حشوة عصب 4 قناة</td>
-                </tr>
-                <tr>
-                    <td>180$</td>
-                    <td>200$</td>
-                    <td>كراس- تلبيس زركون Crown (Z)</td>
-                </tr>
-                <tr>
-                    <td>90$</td>
-                    <td>120$</td>
-                    <td>كراس- تلبيس سيراميك Crown (s)</td>
-                </tr>
-                <tr>
-                    <td>300$</td>
-                    <td>350$</td>
-                    <td>كراس- تلبيس ايماكس Crown (emaX)</td>
-                </tr>
-                <tr>
-                    <td>400$-600$</td>
-                    <td>750$</td>
-                    <td>زرع- جاندني ددان Implant k</td>
                 </tr>
             </tbody>
         </table>

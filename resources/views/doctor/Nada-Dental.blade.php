@@ -4,8 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>Pro Smile</em> Dental</h2>
-          <p>  بكالوريوس طب وجراحة الفم والاسنان </p>
+          <h2><em>Nada</em> Dental</h2>
+          <p>  بكالوريوس جراحة الأسنان (BDS) - ماستر في معالجة وتجميل الأسنان </p>
         </div>
       </div>
     </div>
@@ -66,59 +66,71 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>حشو مع عصب</td>
-                    <td>120.000</td>
-                    <td>70.000</td>
+                    <td>حشوة </td>
+                    <td>30,000</td>
+                    <td>50,000</td>
                   </tr>
                   <tr>
-                    <td>كراس- تلبيس سيراميك</td>
+                    <td>حشوة عصب</td>
+                    <td>60,000</td>
+                    <td>125,000</td>
+                  </tr>
+                  <tr>
+                    <td>حشوة عصب</td>
+                    <td>75,000</td>
+                    <td>150,000</td>
+                  </tr>
+                  <tr>
+                    <td>حشوة عصب</td>
                     <td>100,000</td>
-                    <td>70,000</td>
+                    <td>200,000</td>
                   </tr>
                   <tr>
-                    <td>كراس- تلبيس زيركون</td>
-                    <td>100$</td>
-                    <td>70$</td>
-                  </tr>
-                  <tr>
-                    <td>كراس- تلبيس ايماكس</td>
-                    <td>130$</td>
-                    <td>100$</td>
-                  </tr>
-                  <tr>
-                    <td>زرع- جاندني ددان اسنان</td>
-                    <td>350$</td>
-                    <td>250$</td>
-                  </tr>
-                  <tr>
-                    <td>قلع سن</td>
-                    <td>10,000</td>
+                    <td>قلع سن عادي</td>
                     <td>25,000</td>
+                    <td>10,000</td>
                   </tr>
                   <tr>
-                    <td>قلع (جراحة)</td>
-                    <td>100$</td>
-                    <td>30$</td>
+                    <td>قلع سن عقل</td>
+                    <td>30,000</td>
+                    <td>15,000</td>
+                  </tr>
+
+                  <tr>
+                    <td>طقم اسنان كامل</td>
+                    <td>1.000.000</td>
+                    <td>700.000</td>
                   </tr>
                   <tr>
-                    <td>تبييض بالليزر</td>
-                    <td>120$</td>
-                    <td>100,000</td>
+                    <td>هوليود سمايل كل سن                   </td>
+                    <td>200.000</td>
+                    <td>130.000</td>
                   </tr>
                   <tr>
-                    <td>حشو</td>
-                    <td>60.000</td>
-                    <td>30.000</td>
+                    <td>طخم الأسنان</td>
+                    <td>700,000</td>
+                    <td>500,000</td>
                   </tr>
+                  <tr>
+                    <td>تغليف الأسنان بالسيراميك</td>
+                    <td>100.000</td>
+                    <td>50.000</td>
+                  </tr>
+                  <tr>
+                    <td>تغليف الأسنان بالزركون</td>
+                    <td>200.000</td>
+                    <td>100.000</td>
+                  </tr>
+      
                 </tbody>
-              </table>
+            </table>
           </div>
           </div>
         </div>
       </div>
   </section>      
   
-  <section class="featured-contests">
+  <!-- <section class="featured-contests">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
@@ -130,20 +142,41 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img20.jpg" alt="">
+              <img src="assets/images/img05.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img21.jpg" alt="">
+              <img src="assets/images/img06.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/img07.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/img08.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/img09.jpg" alt="">
             </div>
           </div>
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="testimonials">
     <div class="container">
@@ -160,13 +193,14 @@
               <div class="content">
                 <div class="left-content">
                   <p>
-                  بكالوريوس طب وجراحة الفم والاسنان
+                  بكالوريوس جراحة الأسنان (BDS)
+                  ماستر في معالجة وتجميل الأسنان
                   </p>
-                  <h4>هوشنكـ هشام دوسكى</h4>
-                  <span> 07502101616</span>
+                  <h4>د.عهد نجم الدين عبدالله</h4>
+                  <span>07510606142</span>
                 </div>
                 <div class="image">
-                  {{-- <img src="assets/images/author4.jpg" style="width:225px"> --}}
+                  <!-- <img src="assets/images/author2.jpg" style="width:225px"> -->
                 </div>
               </div>
             </div>

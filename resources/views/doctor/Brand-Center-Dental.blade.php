@@ -29,37 +29,18 @@
             <div class="icon">
               <img src="assets/images/icon-0.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4> x ray - pa صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
         </div>
+
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
               <img src="assets/images/icon-0.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-0.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -96,11 +77,6 @@
                     <td>Free</td>
                   </tr>
                   <tr>
-                    <td>P.Aغسل مجاني لكل شخصمن عائله</td>
-                    <td>-</td>
-                    <td>Free</td>
-                  </tr>
-                  <tr>
                     <td>قلع سن</td>
                     <td>25,000</td>
                     <td>15,000</td>
@@ -114,11 +90,6 @@
                     <td>حشو عصب</td>
                     <td>180,000</td>
                     <td>125,000</td>
-                  </tr>
-                  <tr>
-                    <td>غسل</td>
-                    <td>60,000</td>
-                    <td>35,000</td>
                   </tr>
                   <tr>
                     <td>تركيب سن سيراميك</td>
@@ -155,11 +126,7 @@
                     <td>500$</td>
                     <td>300$</td>
                   </tr>
-                  <tr>
-                    <td>طقم متحرك</td>
-                    <td>-</td>
-                    <td>-</td>
-                  </tr>
+                
                 </tbody>
               </table>
           </div>

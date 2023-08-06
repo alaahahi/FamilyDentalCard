@@ -17,7 +17,7 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-07.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
             <h4>فحص مجاني</h4>
             <span>الخدمات المجانية</span>
@@ -27,9 +27,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-07.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>pa- X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -37,29 +37,9 @@
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
-              <img src="assets/images/icon-07.png" alt="">
+              <img src="assets/images/icon-04.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-07.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-07.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -92,13 +72,13 @@
                     <td>حشو عادي</td>
                 </tr>
                 <tr>
-                    <td>60.000</td>
-                    <td>80.000</td>
-                    <td>حشو عصب</td>
+                  <td>80.000</td>
+                  <td>150.000</td>
+                  <td>حشو عصب</td>
                 </tr>
                 <tr>
                     <td>85.000</td>
-                    <td>120.000</td>
+                    <td>150.000</td>
                     <td>حشو عصب أطفال</td>
                 </tr>
                 <tr>
@@ -112,14 +92,14 @@
                     <td>حشو تجميلي</td>
                 </tr>
                 <tr>
-                    <td>20.000</td>
+                    <td>15.000</td>
                     <td>40.000</td>
                     <td>قلع</td>
                 </tr>
                 <tr>
                     <td>100.000</td>
-                    <td>350.000</td>
-                    <td>قلع تجميلي</td>
+                    <td>150.000</td>
+                    <td>قلع جرحي</td>
                 </tr>
                 <tr>
                     <td>140$</td>
@@ -132,10 +112,20 @@
                     <td>زونى الأزرع- جاندني ددان</td>
                 </tr>
                 <tr>
+                  <td>140$</td>
+                  <td>200$</td>
+                  <td>ايماكس</td>
+              </tr>
+                <tr>
                     <td>100$</td>
                     <td>140$</td>
                     <td>ليزر</td>
                 </tr>
+                <tr>
+                  <td>750.000</td>
+                  <td>1.000.000</td>
+                  <td>طقم اسنان كامل</td>
+              </tr>
             </tbody>
         </table>
 

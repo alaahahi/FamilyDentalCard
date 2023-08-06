@@ -74,6 +74,9 @@ Route::get('/Be-Smile-Duhok', function () {
 Route::get('/Be-Smile-Zakho', function () {
     return view('doctor.Be-Smile-Zakho');
 });
+Route::get('/Nada-Dental', function () {
+    return view('doctor.Nada-Dental');
+});
 
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {

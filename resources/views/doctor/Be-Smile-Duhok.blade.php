@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-11.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>OBG  صورة</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,7 +39,7 @@
             <div class="icon">
               <img src="assets/images/icon-11.png" alt="">
             </div>
-            <h4>pa صورة </h4>
+            <h4>pa  x ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -49,17 +49,7 @@
             <div class="icon">
               <img src="assets/images/icon-11.png" alt="">
             </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-11.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -83,38 +73,33 @@
               <th>الخدمات</th>
             </tr>
             <tr>
-              <td>30.000</td>
+              <td>20.000</td>
               <td>60.000</td>
-              <td>حشوات</td>
-            </tr>
-            <tr>
-              <td>35.000</td>
-              <td>75.000</td>
               <td>حشوات تجميليه</td>
             </tr>
             <tr>
-              <td>75.000</td>
-              <td>175.000</td>
+              <td>60.000</td>
+              <td>120.000</td>
               <td>قطع عصب امامي</td>
             </tr>
             <tr>
-              <td>95.000</td>
-              <td>200.000</td>
+              <td>75.000</td>
+              <td>150.000</td>
               <td>قطع عصب خلفي</td>
             </tr>
             <tr>
-              <td>75.000</td>
-              <td>100$</td>
+              <td>50.000</td>
+              <td>150.000</td>
               <td>كراس- تلبيس سيراميك</td>
             </tr>
             <tr>
-              <td>170$</td>
-              <td>200$</td>
+              <td>90.000</td>
+              <td>200.000</td>
               <td>كراس- تلبيس زركون</td>
             </tr>
             <tr>
-              <td>200$</td>
-              <td>250$</td>
+              <td>120.000</td>
+              <td>250.000</td>
               <td>كراس- تلبيس ايماكس</td>
             </tr>
             <tr>
@@ -123,43 +108,34 @@
               <td>زراعه اسنان (ايطالي-سويسري)</td>
             </tr>
             <tr>
-              <td>550$</td>
-              <td>750$</td>
-              <td>زرع- جاندني ددان اسنان كوري</td>
+              <td>300$</td>
+              <td>600$</td>
+              <td>زرع- جاندني ددان اسنان </td>
             </tr>
+
             <tr>
-              <td>400$</td>
-              <td>550$</td>
-              <td>زرع- جاندني ددان اسنان تركي</td>
-            </tr>
-            <tr>
-              <td>3.500.000</td>
-              <td>4.200.000</td>
+              <td>2.300.000</td>
+              <td>4.500.000</td>
               <td>هوليود سمايل 20سن</td>
             </tr>
             <tr>
-              <td>125.000</td>
-              <td>150.000</td>
+              <td>90.000</td>
+              <td>150$</td>
               <td>تبييض بالليزر</td>
             </tr>
             <tr>
-              <td>15.000</td>
+              <td>10.000</td>
               <td>25.000</td>
               <td>قلع السن</td>
             </tr>
             <tr>
-              <td>25.000</td>
-              <td>35.000</td>
+              <td>15.000</td>
+              <td>75.000</td>
               <td>قلع سن العقل</td>
             </tr>
             <tr>
-              <td>90.000</td>
-              <td>120.000</td>
-              <td>قلع سن جراحي</td>
-            </tr>
-            <tr>
+              <td>450.000</td>
               <td>700.000</td>
-              <td>850.000</td>
               <td>طقم اسنان كامل</td>
             </tr>
             <tr>
@@ -168,9 +144,9 @@
               <td>اشعه O.P.G</td>
             </tr>
             <tr>
-              <td>25.000</td>
-              <td>35.000</td>
-              <td>غسل</td>
+              <td>50.000 كل شهر</td>
+              <td></td>
+              <td>تقويم الاسنان</td>
             </tr>
           </table>
 

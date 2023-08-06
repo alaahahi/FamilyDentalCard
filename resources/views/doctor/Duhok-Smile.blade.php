@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-01.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>pa  x ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,27 +39,7 @@
             <div class="icon">
               <img src="assets/images/icon-01.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-01.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-01.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -183,6 +163,13 @@
                     <td>فحص وتشخيص</td>
                     <td>free</td>
                     <td>free</td>
+                  </tr>
+
+                  <tr>
+
+                    <td>التقويم</td>
+                    <td> حسب الحالة</td>
+                    <td>تخفيض 25%</td>
                   </tr>
                 </tbody>
               </table>  

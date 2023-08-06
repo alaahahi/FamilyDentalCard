@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4> OBG - CBCT  صورة</h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,27 +39,18 @@
             <div class="icon">
               <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4>pa صورة </h4>
+            <h4>pa - X-ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
         </div>
+
         <div class="col-lg col-sm-4">
           <div class="item">
             <div class="icon">
               <img src="assets/images/icon-09.png" alt="">
             </div>
-            <h4> غسل أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-09.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
@@ -86,18 +77,13 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>20.000</td>
-                    <td>40.000</td>
+                    <td>15.000</td>
+                    <td>25.000</td>
                     <td>القلع الاعتيادي بدون عملية</td>
                 </tr>
                 <tr>
-                    <td>50.000</td>
-                    <td>75.000</td>
-                    <td>قلع سن العقل بدون عملية</td>
-                </tr>
-                <tr>
                     <td>100.000</td>
-                    <td>120.000</td>
+                    <td>150.000</td>
                     <td>قلع سن العقل عمليات</td>
                 </tr>
                 <tr>
@@ -112,18 +98,13 @@
                 </tr>
                 <tr>
                     <td>10.000</td>
-                    <td>15.000</td>
+                    <td>25.000</td>
                     <td>قلع سن أطفال</td>
                 </tr>
                 <tr>
                     <td>50.000</td>
-                    <td>70.000</td>
+                    <td>80.000</td>
                     <td>حشوة عصب أطفال</td>
-                </tr>
-                <tr>
-                    <td>1200$</td>
-                    <td>1400$</td>
-                    <td>تقويم</td>
                 </tr>
                 <tr>
                     <td>40.000</td>
@@ -132,22 +113,22 @@
                 </tr>
                 <tr>
                     <td>600$</td>
-                    <td>700$</td>
+                    <td>800$</td>
                     <td>زرع- جاندني ددان اسنان ايطالي</td>
                 </tr>
                 <tr>
-                    <td>100.000</td>
                     <td>120.000</td>
+                    <td>180.000</td>
                     <td>حشوة عصب 2*3 قناة</td>
                 </tr>
                 <tr>
                     <td>100.000</td>
-                    <td>120.000</td>
+                    <td>150.000</td>
                     <td>حشوة عصب قناة واحدة</td>
                 </tr>
                 <tr>
                     <td>80$</td>
-                    <td>100$</td>
+                    <td>150$</td>
                     <td>كراس- تلبيس سراميك</td>
                 </tr>
                 <tr>
@@ -157,12 +138,12 @@
                 </tr>
                 <tr>
                   <td>180$</td>
-                  <td>210$</td>
+                  <td>250$</td>
                   <td>كراس- تلبيس ايماكس</td>
               </tr>
                 <tr>
                     <td>200$</td>
-                    <td>250$</td>
+                    <td>300$</td>
                     <td>ابتسامة هوليوود</td>
                 </tr>
                 <tr>

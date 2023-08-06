@@ -29,7 +29,7 @@
             <div class="icon">
               <img src="assets/images/icon-05.png" alt="">
             </div>
-            <h4> x ray  صورة</h4>
+            <h4>pa-x ray صورة </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">نسبة الخصم 100</span>
           </div>
@@ -39,31 +39,12 @@
             <div class="icon">
               <img src="assets/images/icon-05.png" alt="">
             </div>
-            <h4>pa صورة </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">نسبة الخصم 100</span>
-          </div>
-        </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-05.png" alt="">
-            </div>
-            <h4> غسل أسنان </h4>
+            <h4> غسل و بولش أسنان </h4>
             <span>الخدمات المجانية</span>
             <span class="counter">لشخص واحد للعائلة</span>
           </div>
         </div>
-        <div class="col-lg col-sm-4">
-          <div class="item">
-            <div class="icon">
-              <img src="assets/images/icon-05.png" alt="">
-            </div>
-            <h4> بولش أسنان </h4>
-            <span>الخدمات المجانية</span>
-            <span class="counter">لشخص واحد للعائلة</span>
-          </div>
-        </div>
+
       </div>
     </div>
   </div>
@@ -87,47 +68,18 @@
                 <tbody>
                   <tr>
                     <td>حشوة تجميلية</td>
-                    <td></td>
+                    <td>60,000</td>
                     <td>40,000</td>
                   </tr>
-                  <tr>
-                    <td>تنظيف وتلميع</td>
-                    <td></td>
-                    <td>40,000</td>
-                  </tr>
+
                   <tr>
                     <td>علاج جذري مع حشو نهائي</td>
-                    <td></td>
+                    <td>120,000 (قناة واحدة) / 180,000 (عدة قنوات)</td>
                     <td>100,000 (قناة واحدة) / 120,000 (عدة قنوات)</td>
                   </tr>
                   <tr>
-                    <td>التهاب العصب (Pulpotomy)</td>
-                    <td></td>
-                    <td>75,000</td>
-                  </tr>
-                  <tr>
-                    <td>استئصال العصب (Pulpectomy)</td>
-                    <td></td>
-                    <td>75,000</td>
-                  </tr>
-                  <tr>
-                    <td>استئصال سن عادي</td>
-                    <td></td>
-                    <td>25,000</td>
-                  </tr>
-                  <tr>
-                    <td>استئصال سن جراحي</td>
-                    <td></td>
-                    <td>150,000</td>
-                  </tr>
-                  <tr>
-                    <td>ترميم السن</td>
-                    <td></td>
-                    <td>70,000</td>
-                  </tr>
-                  <tr>
                     <td>تاج للسن (PFM)</td>
-                    <td></td>
+                    <td>200,000</td>
                     <td>135,000</td>
                   </tr>
                   <tr>
@@ -137,12 +89,12 @@
                   </tr>
                   <tr>
                     <td>تقويم الأسنان (تقويم فكين نظام الثابت 3D)</td>
-                    <td></td>
-                    <td>بالاقساظ كل شهر 100 الف دسنار</td>
+                    <td>2000%</td>
+                    <td>بالاقساظ كل شهر 100 الف دينار 1600$</td>
                   </tr>
                   <tr>
                     <td>كراس- تلبيسات الأسنان (ابتسامة هوليوود)</td>
-                    <td></td>
+                    <td>250$ للسن (سعر ثابت لسن واحد) / 300$ للسن (يختلف حسب نوع المواد)</td>
                     <td>150$ للسن (سعر ثابت لسن واحد) / 200$ للسن (يختلف حسب نوع المواد)</td>
                   </tr>
                 </tbody>
