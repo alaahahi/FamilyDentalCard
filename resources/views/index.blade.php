@@ -697,7 +697,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-111.jpg" alt="">
+              <img src="assets/images/img90.jpg" alt="">
               <span class="category">7508090701</span>
               <span class="likes">دهوك- دهوك مول</span>
             </div>
