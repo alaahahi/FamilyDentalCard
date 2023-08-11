@@ -7,6 +7,8 @@
         <div class="col-lg-10 offset-lg-1">
           <div class="header-text">
             <h2>Family <em>Dental</em> Card </h2>
+            <h2>كارتى <em>ددانى</em> خيزاني </h2>
+
             <p class="fs-4">
               بطاقة طب الأسنان العائلية هي عبارة عن خدمة للأفراد وعائلاتهم لمنح تخفيضات على العلاج الطبي والأسنان.يشمل ذلك الكشوفات الروتينية وتنظيف الأسنان ومعالجة التسوس والتركيبات والتقويم وغيرها من الخدمات المتعلقة بالأسنان             
             </p>
@@ -229,11 +231,9 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/img80.jpg" alt="">
-
-              <span class="category">
-                دهوك</span>
-              <span class="likes"> العنوان</span>
+              <img src="/assets/images/img80.jpg" alt="">
+              <span class="category">07501845816</span>
+              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
             <div class="border-button">
               <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -491,7 +491,7 @@
                   <source src="assets/images/popular-07.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>              <span class="category">07506112002</span>
-              <span class="likes">دهوط - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
+              <span class="likes">دهوك - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
             </div>
             <div class="border-button">
               <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
