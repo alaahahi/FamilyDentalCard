@@ -658,6 +658,8 @@
             </div>
           </div>
         </div>
+        
+
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -683,6 +685,30 @@
           </div>
         </div>
      
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>EXO دينتال كلينك</h4>
+                <span></span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-111.jpg" alt="">
+              <span class="category">7508090701</span>
+              <span class="likes">دهوك- دهوك مول</span>
+            </div>
+            <div class="border-button">
+              <a href="/Exo-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
