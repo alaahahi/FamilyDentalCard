@@ -231,7 +231,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="/assets/images/img80.png" alt="">
+              <img src="/assets/images/img80.jpg" alt="">
               <span class="category">07501845816</span>
               <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
@@ -366,7 +366,7 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/img50.png" alt="">
+              <img src="assets/images/img50.jpg" alt="">
               <span class="category">07504747508</span>
               <span class="likes">دوهك-نه خوشخانا شيلان</span>
             </div>

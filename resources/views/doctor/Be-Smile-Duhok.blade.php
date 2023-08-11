@@ -171,21 +171,21 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img80.png" alt="">
+              <img src="assets/images/img80.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img81.png" alt="">
+              <img src="assets/images/img81.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img82.png" alt="">
+              <img src="assets/images/img82.jpg" alt="">
             </div>
           </div>
         </div>
