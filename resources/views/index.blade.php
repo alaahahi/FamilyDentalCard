@@ -262,9 +262,11 @@
                 Your browser does not support the video tag.
               </video>
 
-              <span class="category">
+              <span  class="category"> 7503259900
+              </span>
+              <span  class="likes">
                 دهوك - حي العسكري - مقابل بيت شهيد وحيد كوفلي</span>
-              <span class="likes"> العنوان</span>
+
             </div>
             <div class="border-button">
               <a href="/Duhok-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -293,7 +295,8 @@
 
               <span class="category">
               07504426445</span>
-              <span class="likes"> رقم الهاتف</span>
+              <span class="likes"> دهوك - رابي بازار
+              </span>
             </div>
             <div class="border-button">
               <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -346,7 +349,8 @@
 
               <span class="category">
               07502228090</span>
-              <span class="likes"> رقم الهاتف</span>
+              <span class="likes">مستشفى ون كلوبال سنتر
+              </span>
             </div>
             <div class="border-button">
               <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -413,8 +417,10 @@
             </div>
             <div class="thumb">
               <img src="assets/images/img55.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              <span class="category">07508552907
+              </span>
+              <span class="likes">دهوك - مقابل فندق kro - مقابل فندق زاده
+              </span>
             </div>
             <div class="border-button">
               <a href="/Atta-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -463,8 +469,7 @@
             </div>
             <div class="thumb">
               <img src="assets/images/img62.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              
             </div>
             <div class="border-button">
               <a href="/Smile-Design" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -519,8 +524,10 @@
             </div>
             <div class="thumb">
               <img src="assets/images/popular-222.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              <span class="category">7503162613
+              </span>
+              <span class="likes">زاخو - مقابل ملعب زاخو الدولي
+              </span>
             </div>
             <div class="border-button">
               <a href="/Snow-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -571,6 +578,11 @@
                   <source src="assets/images/popular-15.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video> 
+
+                <span class="category"> 7519102030
+                </span>
+                <span class="likes">زاخو نيو زاخو
+                </span>
             </div>
             <div class="border-button">
               <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -593,8 +605,10 @@
             </div>
             <div class="thumb">
               <img src="assets/images/popular-111.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              <span class="category">7504505502
+              </span>
+              <span class="likes">دهوك KRO مجاور مستشفى شيلان
+              </span>
             </div>
             <div class="border-button">
               <a href="/Nada-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -617,8 +631,10 @@
             </div>
             <div class="thumb">
               <img src="assets/images/img05.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              <span class="category">7517089949
+              </span>
+              <span class="likes">دهوك رابي بازار
+              </span>
             </div>
             <div class="border-button">
               <a href="/Duhok-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -650,8 +666,10 @@
               </video>
 
               <span class="category">
-                زاخو</span>
-              <span class="likes"> العنوان</span>
+               07508503494
+</span>
+              <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
+              </span>
             </div>
             <div class="border-button">
               <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -673,8 +691,10 @@
             </div>
             <div class="thumb">
               <img src="assets/images/popular-111.jpg" alt="">
-              <span class="category"></span>
-              <span class="likes"></span>
+              <span class="category">7503764797
+              </span>
+              <span class="likes">دهوك - شارع KRO - جامع جودى بره خ
+              </span>
             </div>
             <div class="border-button">
               <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
