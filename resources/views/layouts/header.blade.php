@@ -41,7 +41,7 @@ https://templatemo.com/tm-576-snapx-photography
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="/" class="logo">
-                        <img src="assets/images/logo.png" alt="SnapX Photography Template">
+                        <img src="assets/images/logo.jpg" alt="SnapX Photography Template">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->

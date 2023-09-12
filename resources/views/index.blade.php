@@ -91,7 +91,6 @@
             <div class="item">
               <div class="thumb">
                 <img src="assets/images/Coupon_SnowCenter.png" alt="">
->
               </div>
             </div>
           </div>
@@ -750,17 +749,20 @@
         <div class="col-lg-4">
           <div class="pricing-item">
             <img src="assets/images/pricing-01.jpg" alt="">
-            <h4>Basic Plan</h4>
+            <h4>البطاقة العائلة</h4>
             <ul class="first-plan">
-              <li>Lorem Ipsum Dolores Sonte</li>
-              <li>Songe Lorem Ipsum Dol</li>
-              <li>Matrios Venga Heptuss</li>
-              <li>Denim Sriracha Kogi</li>
-              <li>Digital Photography Awards</li>
+              <li>خصومات مجانية</li>
+              <li>في جميع المراكز المعتمدة</li>
+              <li>دهوك</li>
+              <li>انتظار الدور</li>
+              <li>دفعة واحدة</li>
+              <li>تقويم</li>
+              <li>زراعة اسنان</li>
+    
             </ul>
-            <span class="price">$25 USD</span>
+            <span class="price">75000 دينار عراقي</span>
             <div class="border-button">
-              <a href="#">Choose This Plan</a>
+              <a href="#">ابداء الانn</a>
             </div>
           </div>
         </div>
