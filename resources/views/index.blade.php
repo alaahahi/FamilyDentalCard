@@ -762,7 +762,7 @@
             </ul>
             <span class="price">75000 دينار عراقي</span>
             <div class="border-button">
-              <a href="#">ابداء الانn</a>
+              <a href="#">ابداء الان</a>
             </div>
           </div>
         </div>
