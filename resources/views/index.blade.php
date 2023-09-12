@@ -14,10 +14,10 @@
             </p>
             <div class="buttons">
               <div class="big-border-button">
-                <a href="contests.html">استفد من الكبونات الان</a>
+                <a  href="assets/FamilyDentalCard.Magazine.pdf" download>استفد من الكبونات الان</a>
               </div>
               <div class="icon-button">
-                <a href="https://youtube.com/templatemo" target="_blank"><i class="fa fa-play"></i> مزيد من التفاصيل</a>
+                <a  href="assets/FamilyDentalCard.Magazine.pdf" download> <i class="fa fa-play"></i> مزيد من التفاصيل</a>
               </div>
             </div>
           </div>
@@ -35,8 +35,8 @@
           <div class="owl-features owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/featured-01.jpg" alt="">
-                <div class="hover-effect">
+                <img src="assets/images/Coupon_BrandCenterDental.png" alt="">
+                {{-- <div class="hover-effect">
                   <div class="content">
                     <h4>Walk In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
                     <ul>
@@ -45,127 +45,53 @@
                       <li><span>Awards:</span> $1.000 + Camera Nikon</li>
                     </ul>
                   </div>
+                </div> --}}
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/Coupon_BeSmileDuhokCenter.png" alt="">
+
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/Coupon_Dr.RojAzizDental.png" alt="">
+
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/Coupon_DuhokSmileDental.png" alt="">
+
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/Coupon_MagicSmileDental.png" alt="">
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/Coupon_ProSmileDental.png" alt="">
+                <div class="hover-effect">
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/featured-02.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Smile In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Thomas Eddy</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $1,200 + Canon EOS R7</li>
-                    </ul>
-                  </div>
-                </div>
+                <img src="assets/images/Coupon_SalarDental.png" alt="">
               </div>
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/featured-03.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Happy In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Vincent Adam</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $1,800 + Canon EOS R6</li>
-                    </ul>
-                  </div>
-                </div>
+                <img src="assets/images/Coupon_SmileDesign.png" alt="">
               </div>
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/featured-01.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Walk In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Thomas Eddy</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $8,400 + Canon EOS R1</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="thumb">
-                <img src="assets/images/featured-02.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Run In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Vincent Adam</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $5,500 + Canon EOS R3</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="thumb">
-                <img src="assets/images/featured-03.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Stay In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Thomas Eddy</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $4,400 + Canon EOS R5</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="thumb">
-                <img src="assets/images/featured-01.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Walk In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Vincent Adam</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $3,800 + Canon EOS R6</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="thumb">
-                <img src="assets/images/featured-02.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Shoot In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Vincent Adam</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $2,400 + Canon EOS R7</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="thumb">
-                <img src="assets/images/featured-03.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="content">
-                    <h4>Fly In The Nature <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <span>(4.5)</span></h4>
-                    <ul>
-                      <li><span>Contest Winner:</span> Vincent Adam</li>
-                      <li><span>Contest Author:</span> Anthony Soft</li>
-                      <li><span>Awards:</span> $1,200 + Canon EOS R10</li>
-                    </ul>
-                  </div>
-                </div>
+                <img src="assets/images/Coupon_SnowCenter.png" alt="">
+>
               </div>
             </div>
           </div>
