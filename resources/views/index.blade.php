@@ -182,7 +182,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                 <source src="assets/images/popular-01.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -213,7 +213,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                 <source src="assets/images/popular-09.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -267,7 +267,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                 <source src="assets/images/popular-08.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
@@ -417,7 +417,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                   <source src="assets/images/popular-07.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video>              <span class="category">07506112002</span>
@@ -499,7 +499,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                   <source src="assets/images/popular-15.mp4" type="video/mp4">
                   Your browser does not support the video tag.
                 </video> 
@@ -585,7 +585,7 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" controls>
+              <video width="100%" height="395" loading="lazy" controls>
                 <source src="assets/images/popular-18.mp4" type="video/mp4">
                 Your browser does not support the video tag.
               </video>
