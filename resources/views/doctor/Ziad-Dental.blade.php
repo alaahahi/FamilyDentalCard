@@ -124,14 +124,29 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img05.jpg" alt="">
+              <img src="assets/images/ziad2.jpg" alt="">
+            </div>
+          </div>
+        </div>
+    
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/img06.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img06.jpg" alt="">
+              <img src="assets/images/ziad1.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/img05.jpg" alt="">
             </div>
           </div>
         </div>
