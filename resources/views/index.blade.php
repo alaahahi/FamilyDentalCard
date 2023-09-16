@@ -743,7 +743,7 @@
         <div class="col-lg-12">
           <div class="section-heading text-center">
             <h6>بطاقاتنا</h6>
-            <h4>Photography <em>Contest Plans</em> and Price <em>Awards</em></h4>
+            <h4>تعرف على <em>سعر</em>وبعض خدمات <em>البطاقة العائلية</em></h4>
           </div>
         </div>
         <div class="col-lg-4">
@@ -751,16 +751,14 @@
             <img src="assets/images/pricing-01.jpg" alt="">
             <h4>البطاقة العائلة</h4>
             <ul class="first-plan">
-              <li>خصومات مجانية</li>
-              <li>في جميع المراكز المعتمدة</li>
-              <li>دهوك</li>
+              <li> زراع أسنان 300 الف</li>
+              <li>حشوة 20 الف</li>
+              <li>تلبيس زارغون 80 الف</li>
               <li>انتظار الدور</li>
               <li>دفعة واحدة</li>
-              <li>تقويم</li>
-              <li>زراعة اسنان</li>
-    
+              <li>تلبيس سيراميك 50 الف</li>
             </ul>
-            <span class="price">75000 دينار عراقي</span>
+            <span class="price">40,000 دينار عراقي</span>
             <div class="border-button">
               <a href="#">ابداء الان</a>
             </div>
