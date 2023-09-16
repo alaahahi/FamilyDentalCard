@@ -83,30 +83,85 @@ https://templatemo.com/tm-576-snapx-photography
         <!-- Social Login -->
         <div class="social_login">
             <div>
-                <a href="#" class="social_box fb">
-                    <span class="icon_title">Duhok Smile - د.إحسان منصور</span>
+                <a href="https://forms.gle/SPNweeTvNSwUnC218" target="_blank" class="social_box fb">
+                    <span class="icon_title">مركز براند</span>
 
                 </a>
 
-                <a href="#" class="social_box google">
-                    <span class="icon_title">Duhok Rabi Bazar - Dr. Roj Aziz  </span>
+                <a href="https://forms.gle/ddfg3yY73Z1rWgWo6" target="_blank" class="social_box google">
+                    <span class="icon_title">be smile</span>
                 </a>
 
-                <a href="#" class="social_box google">
-                  <span class="icon_title">Duhok Rabi Bazar - Dr. Roj Aziz  </span>
+                <a href="https://forms.gle/qVibUtLLLhiYfv1R6" target="_blank" class="social_box google">
+                  <span class="icon_title">دهوك سمايل </span>
                 </a>
                 
-                <a href="#" class="social_box google">
-                  <span class="icon_title">Duhok Rabi Bazar - Dr. Roj Aziz  </span>
+                <a href="https://docs.google.com/forms/d/1wSkns8YJar7NSiD8urXr4KLMUj9rrOCUzcTiek1B_E8/edit" target="_blank" class="social_box google">
+                  <span class="icon_title">مركز د.روژ عزيز </span>
                 </a>
                 
-                <a href="#" class="social_box google">
-                  <span class="icon_title">Duhok Rabi Bazar - Dr. Roj Aziz  </span>
+                <a href="https://forms.gle/yXprCv6ghmme69xp6" target="_blank" class="social_box google">
+                  <span class="icon_title">مركز ماجيك سمايل د.أنيس </span>
                 </a>
                 
-                <a href="#" class="social_box google">
-                  <span class="icon_title">Duhok Rabi Bazar - Dr. Roj Aziz  </span>
+                <a href="https://forms.gle/KUTrUmFdkw19Xm1p9" target="_blank" class="social_box google">
+                  <span class="icon_title">د.محمد انور </span>
                 </a>
+                <a href="https://forms.gle/zXSz31wzNCC3vdun6" target="_blank" class="social_box google">
+                  <span class="icon_title">د.ايفان نمرود </span>
+                </a>
+                <a href="https://forms.gle/UqwPWKERXnedeWnk7" target="_blank" class="social_box google">
+                  <span class="icon_title">برو سمايل
+                  </span>
+                </a>
+                <a href="https://forms.gle/YcHMvMWAXCSZUds18" target="_blank" class="social_box google">
+                  <span class="icon_title">أمباير دينتال سنتر
+                  </span>
+                </a>
+                <a href="https://forms.gle/GvguspYn8UPpTmSAA" target="_blank" class="social_box google">
+                  <span class="icon_title">عهد  نجم الدين
+                  </span>
+                </a>
+                <a href="https://forms.gle/xWKr9VtRnSUcwNcP7" target="_blank" class="social_box google">
+                  <span class="icon_title">سمايل ديزاين - زاخو
+                  </span>
+                </a>
+                <a href="https://forms.gle/265GHRzpYaZixNRU7" target="_blank" class="social_box google">
+                  <span class="icon_title">حسين عبدالله اسود
+                  </span>
+                </a>
+                <a href="https://forms.gle/cMgixntyGjxsGotG6" target="_blank" class="social_box google">
+                  <span class="icon_title">سنو دينتال
+                  </span>
+                </a>
+                <a href="https://forms.gle/WusXbfb8846k1PNi8" target="_blank" class="social_box google">
+                  <span class="icon_title">الدكتور زياد مسعود رشيد
+                  </span>
+                </a>
+                <a href="https://forms.gle/7wTXeQYqv4BZFMJk6" target="_blank" class="social_box google">
+                  <span class="icon_title">سالار دينتال 
+                  </span>
+                </a>
+                <a href="https://forms.gle/Qd75GLnfKt2kK3Qi7" target="_blank" class="social_box google">
+                  <span class="icon_title">ندى عبد الأمير عطار
+                  </span>
+                </a>
+                <a href="https://forms.gle/uwsN1qtnHoMMztsy9" target="_blank" class="social_box google">
+                  <span class="icon_title">دهوك سنتر 
+                  </span>
+                </a>
+                <a href="https://forms.gle/mbtVf5EaWSa7BiDo8" target="_blank" class="social_box google">
+                  <span class="icon_title">مركز افيستا دينتال كلينك
+                  </span>
+                </a>
+                <a href="https://forms.gle/PjL5z9RvVY7pYjz97" target="_blank" class="social_box google">
+                  <span class="icon_title">be smile زاخو   </span>
+                </a>
+                <a href="https://forms.gle/NiF2tFnEXXQnDKUL9" target="_blank" class="social_box google">
+                  <span class="icon_title"> EXO دينتال كلينك
+                  </span>
+                </a>
+               
             </div>
         </div>        
     </section>
