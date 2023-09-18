@@ -151,7 +151,6 @@
                 <span>
                   بكالوريوس جراحة الأسنان (BDS)
                   ماستر في معالجة وتجميل الأسنان
-                  دكتورا معالجة وتجميل الأسنان
                 </span>
               </div>
             </div>
@@ -236,8 +235,9 @@
                 <img src="assets/images/icon-05.png" alt="">
               </div>
               <div class="right">
-                <h4>Magic Smile - د.أنيس</h4>
-                <span>ماجستير جراحة اللثة وزرع- جاندني ددان الأسنان</span>
+                <h4>د.أنيس محمود</h4>
+                <span>Magic Smile</span>
+                <span>دكتوراه بتقويم الأسنان - ماجستير تقويم الأسنان</span>
               </div>
             </div>
             <div class="thumb">
@@ -259,10 +259,10 @@
                 <img src="assets/images/icon-08.png" alt="">
               </div>
               <div class="right">
-                <h4> One Global Hospital - محمد أنوار</h4>
+                <h4> د.محمد أنوار</h4>
                 <span>
                   ماستر في معالجة وتجميل الأسنان
-                  دكتورا معالجة وتجميل الأسنان
+                  بكالوريوس معالجة وتجميل الأسنان
                 </span>
               </div>
             </div>
@@ -524,7 +524,7 @@
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>ندى عبد الأمير عطار</h4>
+                <h4>د.ندى  العطار</h4>
                 <span>ماجستير</span>
               </div>
             </div>
@@ -573,14 +573,13 @@
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-01.png" alt="">
+                <img src="" alt="">
               </div>
               <div class="right">
                 <h4>Zakho B Smile</h4>
                 <span>
                   بكالوريوس جراحة الأسنان (BDS)
                   ماستر في معالجة وتجميل الأسنان
-                  دكتورا معالجة وتجميل الأسنان
                 </span>
               </div>
             </div>

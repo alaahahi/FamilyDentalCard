@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
           <h2><em>Magic Smile</em> Dental</h2>
-          <p>  بكالوريوس جراحة الأسنان (BDS) - ماستر في معالجة وتجميل الأسنان -  دكتورا معالجة وتجميل الأسنان</p>
+          <p>دكتوراه بتقويم الأسنان - ماجستير تقويم الأسنان</p>
         </div>
       </div>
     </div>

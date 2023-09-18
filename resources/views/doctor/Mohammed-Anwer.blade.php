@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>One Global  </em> Hospital</h2>
+          <h2><em> د.محمد أنوار </em></h2>
           <p>  بكالوريوس طب وجراحة الفم والاسنان </p>
         </div>
       </div>
@@ -167,6 +167,27 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/mh-an1.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/mh-an1.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/mh-an1.jpg" alt="">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -188,8 +209,8 @@
                   <p>
                   بكالوريوس طب وجراحة الفم والاسنان
                   </p>
-                  <h4>هوشنكـ هشام دوسكى</h4>
-                  <span> 07502101616</span>
+                  <h4> د.محمد أنور</h4>
+                  <span> 07502228090</span>
                 </div>
                 <div class="image">
                   <img src="assets/images/author8.jpg" style="width:225px">
