@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em> د.محمد أنوار </em></h2>
+          <h2><em> د.محمد أنور </em></h2>
           <p>  بكالوريوس طب وجراحة الفم والاسنان </p>
         </div>
       </div>
