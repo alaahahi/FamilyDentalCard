@@ -259,7 +259,7 @@
                 <img src="assets/images/icon-08.png" alt="">
               </div>
               <div class="right">
-                <h4> د.محمد أنور مكان العمل مستشفى ون كلوبال</h4>
+                <h4> د.محمد انور                 </h4>
                 <span>
                   ماستر في معالجة وتجميل الأسنان
                   بكالوريوس معالجة وتجميل الأسنان
@@ -274,7 +274,7 @@
 
               <span class="category">
               07502228090</span>
-              <span class="likes">مستشفى ون كلوبال سنتر
+              <span class="likes"> مستشفى وان گلوبال- گلي دهوك
               </span>
             </div>
             <div class="border-button">
