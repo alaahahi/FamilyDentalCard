@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>Eman Ibrahim Dental</em> Center</h2>
+          <h2><em>Avista Dental </em> Clinic</h2>
           <p> B.D.S. M.Sc. in Prosthodontics </p>
         </div>
       </div>
