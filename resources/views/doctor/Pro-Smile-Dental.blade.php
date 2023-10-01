@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2 header-text">
-          <h2><em>Pro Smile</em> Dental</h2>
+          <h2><em>دكتور هوشنگ</em> دينتال كلينك</h2>
           <p>  بكالوريوس طب وجراحة الفم والاسنان </p>
         </div>
       </div>
@@ -166,7 +166,7 @@
                   <span> 07502101616</span>
                 </div>
                 <div class="image">
-                  {{-- <img src="assets/images/author4.jpg" style="width:225px"> --}}
+                  <img src="assets/images/author44.jpg" style="width:225px">
                 </div>
               </div>
             </div>

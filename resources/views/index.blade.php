@@ -312,7 +312,7 @@
                 <img src="assets/images/icon-04.png" alt="">
               </div>
               <div class="right">
-                <h4>Pro Smile Dental</h4>
+                <h4> دكتور هوشنگ دينتال كلينك </h4>
                 <span>بكالوريوس طب وجراحة الفم والاسنان</span>
               </div>
             </div>
