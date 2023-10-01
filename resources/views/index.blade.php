@@ -506,7 +506,38 @@
 
                 <span class="category"> 7519102030
                 </span>
-                <span class="likes">زاخو نيو زاخو
+                <span class="likes">  زاخو
+                </span>
+            </div>
+            <div class="border-button">
+              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
+                
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-15.png" alt="">
+              </div>
+              <div class="right">
+                <h4>Salar Dental نيو زاخو</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <video width="100%" height="395" loading="lazy" controls>
+                  <source src="assets/images/popular-15.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                </video> 
+
+                <span class="category"> 0751 910 2030
+                </span>
+                <span class="likes"> نيو زاخو
                 </span>
             </div>
             <div class="border-button">
