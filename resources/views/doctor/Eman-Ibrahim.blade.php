@@ -188,7 +188,7 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img5w5.jpg" alt="">
+              <img src="assets/images/eman22.jpg" alt="">
             </div>
           </div>
         </div>
