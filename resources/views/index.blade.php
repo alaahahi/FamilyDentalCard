@@ -14,10 +14,10 @@
             </p>
             <div class="buttons">
               <div class="big-border-button">
-                <a  href="assets/FamilyDentalCard.Magazin.pdf" download>استفد من الكبونات الان</a>
+                <a  href="assets/FamilyDentalCard.Magazin1.pdf" download>استفد من الكبونات الان</a>
               </div>
               <div class="icon-button">
-                <a  href="assets/FamilyDentalCard.Magazin.pdf" download> <i class="fa fa-play"></i> مزيد من التفاصيل</a>
+                <a  href="assets/FamilyDentalCard.Magazin1.pdf" download> <i class="fa fa-play"></i> مزيد من التفاصيل</a>
               </div>
             </div>
           </div>
