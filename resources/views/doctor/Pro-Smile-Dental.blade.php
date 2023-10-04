@@ -130,6 +130,13 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
+              <img src="assets/images/author44.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
               <img src="assets/images/img21.jpg" alt="">
             </div>
           </div>
@@ -159,7 +166,7 @@
                   <span> 07502101616</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/img20.jpg" style="width:225px">
+                  <img src="assets/images/author44.jpg" style="width:225px">
                 </div>
               </div>
             </div>
