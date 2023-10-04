@@ -143,6 +143,12 @@
             <h4>سەنتەرێ جوانکاری و چاندن و راستکرنا ددانا </h4>
           </div>
         </div>
+        <div class="col-lg-12">
+          <video width="100%" height="395" loading="lazy" controls>
+            <source src="assets/images/salarNew.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
