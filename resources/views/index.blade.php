@@ -833,4 +833,14 @@
       </div>
     </div>
   </section>
+  <style>
+.popular-item .thumb span.category {
+  opacity: 1 !important;
+}
+
+.popular-item .thumb span.likes {
+
+  opacity: 1 !important;
+}
+  </style>
   @endsection
