@@ -835,11 +835,12 @@
   </section>
   <style>
 .popular-item .thumb span.category {
+  top: 15px !important;
   opacity: 1 !important;
 }
 
 .popular-item .thumb span.likes {
-
+  top: 15px !important;
   opacity: 1 !important;
 }
   </style>
