@@ -186,7 +186,7 @@
             <div class="thumb">
               <img src="/assets/images/img80.jpg" alt="">
               <span class="category">07501845816</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
+              <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
               <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
@@ -248,7 +248,8 @@
 
               <span class="category">
               07504426445</span>
-              <span class="likes"> دهوك - رابي بازار
+              <span class="likes"> 
+                دهوك - كرين ياصي مقابل اعدادية دهوك
               </span>
             </div>
             <div class="border-button">
@@ -272,8 +273,9 @@
             <div class="thumb">
               <img src="assets/images/popular-06.jpg" alt="">
               <span class="category">07503043030</span>
-              <span class="likes">كلينيكا جوانکاری و ڕاستکرن و چاندنا ددانا 🦷
-                دهوك - مالتا / نەخوشخانا ڤین </span>
+              <span class="likes">
+              مستشفى فين
+              </span>
             </div>
             <div class="border-button">
               <a href="/Magic-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
@@ -344,7 +346,7 @@
               <img src="assets/images/img55.jpg" alt="">
               <span class="category">07508552907
               </span>
-              <span class="likes">دهوك - مقابل فندق kro - مقابل فندق زاده
+              <span class="likes">ماسيمكي مطعم ديكل
               </span>
             </div>
             <div class="border-button">
@@ -674,7 +676,7 @@
             <div class="thumb">
               <img src="assets/images/img90.jpg" alt="">
               <span class="category">7508090701</span>
-              <span class="likes">دهوك- دهوك مول</span>
+              <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
               <a href="/Exo-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
