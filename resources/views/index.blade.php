@@ -686,6 +686,31 @@
             </div>
           </div>
         </div>
+             
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>سلبريتي سمايل</h4>
+                <span></span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img90.jpg" alt="">
+              <span class="category">7507993444</span>
+              <span class="likes"> دهوك -  جادا ماشيكى به راميه ر</span>
+            </div>
+            <div class="border-button">
+              <a href="/" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+           
+              
+              
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
