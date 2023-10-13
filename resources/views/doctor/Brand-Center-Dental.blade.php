@@ -186,10 +186,75 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6">
+     
+        <div class="col-lg-4">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img33.jpg" alt="">
+              <img src="assets/images/brand1.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand2.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand3.jpg" alt="">
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand4.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand5.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand6.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand7.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand8.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand9.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/brand10.jpg" alt="">
             </div>
           </div>
         </div>
@@ -215,7 +280,7 @@
                   ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
                   </p>
                   <h4> دكتور  وعد </h4>
-                  <span> 07502101616</span>
+                  <span> 07502224922</span>
                 </div>
                 <div class="image">
                   <img src="assets/images/author5.jpg" style="width:225px">
@@ -229,7 +294,7 @@
                   ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
                   </p>
                   <h4>صميم حبيب ابراهيم</h4>
-                  <span> 07502101616</span>
+                  <span> 07502224922</span>
                 </div>
                 <div class="image">
                   <!-- <img src="assets/images/author4.jpg" style="width:225px"> -->
