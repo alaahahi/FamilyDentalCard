@@ -187,14 +187,14 @@
           </div>
         </div>
      
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
               <img src="assets/images/brand1.jpg" alt="">
             </div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
               <img src="assets/images/brand2.jpg" alt="">
