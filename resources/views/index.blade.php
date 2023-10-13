@@ -868,5 +868,6 @@
   top: 15px !important;
   opacity: 1 !important;
 }
+
   </style>
   @endsection

@@ -161,8 +161,27 @@ https://templatemo.com/tm-576-snapx-photography
                   <span class="icon_title"> EXO دينتال كلينك
                   </span>
                 </a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_f2faJYEOqbRMHjSTs-wkivMcurQvYc27aLKVJ9W30cREBw/viewform" target="_blank" class="col-6 text-center social_box google">
+                  <span class="icon_title"> سلبريتي سمايل  
+                  </span>
+                </a>
                
             </div>
         </div>        
     </section>
   </div>
+  <style>
+    .popupContainer {
+    width: 400px;
+    top: 50px !important;
+}
+.social_box{
+  border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 5px;
+    max-width: 180px;
+}
+  </style>
