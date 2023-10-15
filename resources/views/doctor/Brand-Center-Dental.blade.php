@@ -322,7 +322,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -337,7 +337,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -352,7 +352,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -368,7 +368,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -383,7 +383,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -398,7 +398,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -414,7 +414,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
@@ -430,7 +430,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/author5.jpg" style="width:225px">
+                  
                 </div>
               </div>
             </div>
