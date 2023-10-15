@@ -346,21 +346,6 @@
               <div class="content">
                 <div class="left-content">
                   <p>
-                  ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
-                  </p>
-                  <h4> دكتور  وعد </h4>
-                  <span> 07502224922</span>
-                </div>
-                <div class="image">
-                  
-                </div>
-              </div>
-            </div>
-
-            <div class="item">
-              <div class="content">
-                <div class="left-content">
-                  <p>
                     إختصاص معالجة وترميم الأسنان
                   </p>
                   <h4>  د. علي رياضة
