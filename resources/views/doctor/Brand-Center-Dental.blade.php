@@ -434,6 +434,22 @@
                 </div>
               </div>
             </div>
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    بكالوريوس طب وجراحة الفم والأسنان
+                  </p>
+                  <h4>  د. سليم هروري 
+
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
