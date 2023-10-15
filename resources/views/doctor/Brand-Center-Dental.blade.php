@@ -287,9 +287,9 @@
               <div class="content">
                 <div class="left-content">
                   <p>
-                  ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
+                    إختصاص جراحة الفم وتجميل وزراعة الأسنان
                   </p>
-                  <h4> دكتور  وعد </h4>
+                  <h4> د. وعد گه رگه رى</h4>
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
@@ -301,9 +301,9 @@
               <div class="content">
                 <div class="left-content">
                   <p>
-                  ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
+                    إختصاص جراحة اللثة وتجميل وزراعة الأسنان
                   </p>
-                  <h4>صميم حبيب ابراهيم</h4>
+                  <h4>د. صميم حبيب                   </h4>
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
@@ -312,6 +312,128 @@
               </div>
             </div>
    
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    إختصاص معالجة أسنان الاطفال
+                  </p>
+                  <h4>  د. ساندرا وصفي  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    إختصاص تقويم الأسنان  
+                  </p>
+                  <h4>  د. احمد كمال  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                  ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان
+                  </p>
+                  <h4> دكتور  وعد </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    إختصاص معالجة وترميم الأسنان
+                  </p>
+                  <h4>  د. علي رياضة
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    بكالوريوس طب وجراحة الفم والأسنان                  </p>
+                  <h4>  د. حسن سليڤاني
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    بكالوريوس طب وجراحة الفم والأسنان
+                  </p>
+                  <h4>   د. رندي خان 
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    بكالوريوس طب وجراحة الفم والأسنان
+                  </p>
+                  <h4>   د. نوهرا
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="content">
+                <div class="left-content">
+                  <p>
+                    بكالوريوس طب وجراحة الفم والأسنان
+                  </p>
+                  <h4>   د. عبد الملك
+                  </h4>
+                  <span> 07502224922</span>
+                </div>
+                <div class="image">
+                  <img src="assets/images/author5.jpg" style="width:225px">
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
