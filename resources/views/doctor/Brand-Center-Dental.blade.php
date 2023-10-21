@@ -307,7 +307,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                   <img src="assets/images/img27.jpg" style="width:225px">
+                   <img src="assets/images/brand1.jpg" style="width:225px">
                 </div>
               </div>
             </div>
@@ -337,7 +337,7 @@
                   <span> 07502224922</span>
                 </div>
                 <div class="image">
-                  <img src="assets/images/img28.jpg" style="width:225px">
+                  <img src="assets/images/brand3.jpg" style="width:225px">
                 </div>
               </div>
             </div>
