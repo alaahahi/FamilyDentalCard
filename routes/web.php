@@ -80,6 +80,9 @@ Route::get('/Nada-Dental', function () {
 Route::get('/Exo-Dental', function () {
     return view('doctor.Exo-Dental');
 });
+Route::get('/Celebrity-Smile', function () {
+    return view('doctor.Celebrity-Smile');
+});
 
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {

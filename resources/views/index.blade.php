@@ -704,7 +704,7 @@
               <span class="likes"> دهوك -  جادا ماشيكى به راميه ر</span>
             </div>
             <div class="border-button">
-              <a href="/" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Celebrity-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
            
               
               
