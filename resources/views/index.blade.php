@@ -185,7 +185,7 @@
             </div>
             <div class="thumb">
               <img src="/assets/images/img80.jpg" alt="">
-              <span class="category">07501845816</span>
+              <span class="category">07508752005</span>
               <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
