@@ -132,7 +132,7 @@
               <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
             <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -165,7 +165,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
+              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -189,7 +189,7 @@
               <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
+              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -222,7 +222,7 @@
 
             </div>
             <div class="border-button">
-              <a href="/Duhok-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
+              <a href="/Duhok-Smile" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -253,7 +253,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
+              <a href="/Roj-Aziz" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -278,7 +278,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>
@@ -302,7 +302,7 @@
               <span class="likes">دوهك-نه خوشخانا شيلان</span>
             </div>
             <div class="border-button">
-              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>
@@ -324,7 +324,7 @@
               <span class="likes"><i class="fa fa-heart"></i> 07502101616</span>
             </div>
             <div class="border-button">
-              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار</a>
      
               
             </div>
@@ -350,7 +350,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -378,7 +378,7 @@
 
             </div>
             <div class="border-button">
-              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>
@@ -399,7 +399,7 @@
               
             </div>
             <div class="border-button">
-              <a href="/Smile-Design" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Smile-Design" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -426,7 +426,7 @@
               <span class="likes">دهوك - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
             </div>
             <div class="border-button">
-              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -457,7 +457,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Snow-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Snow-Center" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -482,7 +482,7 @@
               <span class="likes">07502520202</span>
             </div>
             <div class="border-button">
-              <a href="/Ziad-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>       
+              <a href="/Ziad-Dental" class="mb-2">قائمة الأسعار</a>       
            
               
             </div>
@@ -512,7 +512,7 @@
                 </span>
             </div>
             <div class="border-button">
-              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -543,7 +543,7 @@
                 </span>
             </div>
             <div class="border-button">
-              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Salar-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -569,7 +569,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Nada-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Nada-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -595,7 +595,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Duhok-Center" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Duhok-Center" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -629,7 +629,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>            
+              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -654,7 +654,7 @@
               </span>
             </div>
             <div class="border-button">
-              <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Eman-Ibrahim" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -679,7 +679,7 @@
               <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
-              <a href="/Exo-Dental" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Exo-Dental" class="mb-2">قائمة الأسعار</a>
            
               
               
@@ -704,7 +704,7 @@
               <span class="likes"> دهوك -  جادا ماشيكى به راميه ر</span>
             </div>
             <div class="border-button">
-              <a href="/Celebrity-Smile" class="mb-2">قائمة الأسعار - تخفيضات حتى 50% .</a>
+              <a href="/Celebrity-Smile" class="mb-2">قائمة الأسعار</a>
            
               
               
