@@ -808,12 +808,8 @@
             <img src="assets/images/pricing-01.jpg" alt="">
             <h4>البطاقة العائلة</h4>
             <ul class="first-plan">
-              <li> زراع أسنان 300 الف</li>
-              <li>حشوة 20 الف</li>
-              <li>تلبيس زارغون 80 الف</li>
-              <li>انتظار الدور</li>
-              <li>دفعة واحدة</li>
-              <li>تلبيس سيراميك 50 الف</li>
+              <li> خدمات مجانية</li>
+              <li>عروض فورية </li>
             </ul>
             <span class="price">40,000 دينار عراقي</span>
             <div class="border-button">
