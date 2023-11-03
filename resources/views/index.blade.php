@@ -680,9 +680,6 @@
             </div>
             <div class="border-button">
               <a href="/Exo-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
             </div>
           </div>
         </div>
