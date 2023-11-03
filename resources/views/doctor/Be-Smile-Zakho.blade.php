@@ -184,21 +184,42 @@
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img80.jpg" alt="">
+              <img src="assets/images/b-smail1.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img81.jpg" alt="">
+              <img src="assets/images/b-smail2.jpg" alt="">
             </div>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="item">
             <div class="thumb">
-              <img src="assets/images/img82.jpg" alt="">
+              <img src="assets/images/b-smail3.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/b-smail4.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/b-smail5.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="item">
+            <div class="thumb">
+              <img src="assets/images/b-smail6.jpg" alt="">
             </div>
           </div>
         </div>

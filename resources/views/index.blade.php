@@ -606,7 +606,7 @@
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="" alt="">
+                <img src="assets/images/b-smail-logo.png" alt="">
               </div>
               <div class="right">
                 <h4>Zakho B Smile</h4>
@@ -617,14 +617,10 @@
               </div>
             </div>
             <div class="thumb">
-              <video width="100%" height="395" loading="lazy" controls>
-                <source src="assets/images/popular-18.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
-
+              <img src="assets/images/b-smail1.jpg" alt="">
               <span class="category">
                07508503494
-</span>
+            </span>
               <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
               </span>
             </div>
