@@ -389,29 +389,7 @@
           </div>
         </div>
 
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>Smile Design زاخو</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/img62.jpg" alt="">
-              
-            </div>
-            <div class="border-button">
-              <a href="/Smile-Design" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
+
 
 
         <div class="col-lg-6 col-sm-12 mb-4">
