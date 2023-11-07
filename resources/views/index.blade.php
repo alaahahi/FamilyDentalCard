@@ -114,15 +114,14 @@
             <!-- <a href="categories.html">Discover All Categories</a> -->
           </div>
         </div>
-
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/b-smail-logo.png" alt="">
+                <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>Zakho B Smile</h4>
+                <h4> Be Smile</h4>
                 <span>
                   بكالوريوس جراحة الأسنان (BDS)
                   ماستر في معالجة وتجميل الأسنان
@@ -130,18 +129,16 @@
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/b-smail1.jpg" alt="">
-              <span class="category">
-               07508503494
-            </span>
-              <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
-              </span>
+              <img src="/assets/images/img80.jpg" alt="">
+              <span class="category">07508752005</span>
+              <span class="likes"> دهوك - فاميلي مول</span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار</a>            
+              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
+
 
 
         <div class="col-lg-6 col-sm-12 mb-4">
@@ -192,30 +189,36 @@
             </div>
           </div>
         </div>
+
+
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
+                <img src="assets/images/icon-11.png" alt="">
               </div>
               <div class="right">
-                <h4> Be Smile</h4>
-                <span>
-                  بكالوريوس جراحة الأسنان (BDS)
-                  ماستر في معالجة وتجميل الأسنان
-                </span>
+                <h4> د.طلال أمباير دينتال</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
               </div>
             </div>
             <div class="thumb">
-              <img src="/assets/images/img80.jpg" alt="">
-              <span class="category">07508752005</span>
-              <span class="likes"> دهوك - فاميلي مول</span>
+              <img src="assets/images/img55.jpg" alt="">
+              <span class="category">07508552907
+              </span>
+              <span class="likes">
+                مجاور لفندق زاده، قبل الفرع
+              </span>
             </div>
             <div class="border-button">
-              <a href="/Be-Smile-Duhok" class="mb-2">قائمة الأسعار</a>            
+              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
             </div>
           </div>
         </div>
+
 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
@@ -306,26 +309,30 @@
           </div>
         </div>
 
-       
- 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
+                <img src="assets/images/b-smail-logo.png" alt="">
               </div>
               <div class="right">
-                <h4>ايفان نمرود يوحنا</h4>
-                <span>دكتوراه جراحة الفم والاسنان - زرع- جاندني ددان الاسنان ماجستير جراحة الوجه والفكين</span>
+                <h4>Zakho B Smile</h4>
+                <span>
+                  بكالوريوس جراحة الأسنان (BDS)
+                  ماستر في معالجة وتجميل الأسنان
+                </span>
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/img50.jpg" alt="">
-              <span class="category">07504747508</span>
-              <span class="likes">دوهك-نه خوشخانا شيلان</span>
+              <img src="assets/images/b-smail1.jpg" alt="">
+              <span class="category">
+               07508503494
+            </span>
+              <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
+              </span>
             </div>
             <div class="border-button">
-              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار</a>
+              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
@@ -349,34 +356,6 @@
             <div class="border-button">
               <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار</a>
      
-              
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-11.png" alt="">
-              </div>
-              <div class="right">
-                <h4> د.طلال أمباير دينتال</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/img55.jpg" alt="">
-              <span class="category">07508552907
-              </span>
-              <span class="likes">
-                مجاور لفندق زاده، قبل الفرع
-              </span>
-            </div>
-            <div class="border-button">
-              <a href="/Atta-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
               
             </div>
           </div>
@@ -602,6 +581,28 @@
         </div>
        
         
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>ايفان نمرود يوحنا</h4>
+                <span>دكتوراه جراحة الفم والاسنان - زرع- جاندني ددان الاسنان ماجستير جراحة الوجه والفكين</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img50.jpg" alt="">
+              <span class="category">07504747508</span>
+              <span class="likes">دوهك-نه خوشخانا شيلان</span>
+            </div>
+            <div class="border-button">
+              <a href="/Evan-Nimrod" class="mb-2">قائمة الأسعار</a>
+            </div>
+          </div>
+        </div>
+ 
 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
