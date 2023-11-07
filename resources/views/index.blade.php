@@ -142,34 +142,31 @@
             </div>
           </div>
         </div>
-        
+
+
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-08.png" alt="">
+                <img src="assets/images/icon-07.png" alt="">
               </div>
               <div class="right">
-                <h4> د.محمد انور                 </h4>
-                <span>
-                  ماستر في معالجة وتجميل الأسنان
-                  بكالوريوس معالجة وتجميل الأسنان
-                </span>
+                <h4>حسين عبدالله الأسود</h4>
+                <span>بكالوريوس طب وجراحة الفم والاسنان</span>
               </div>
             </div>
             <div class="thumb">
               <video width="100%" height="395" loading="lazy" controls>
-                <source src="assets/images/popular-08.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
-
-              <span class="category">
-              07502228090</span>
-              <span class="likes"> مستشفى وان گلوبال- گلي دهوك
-              </span>
+                  <source src="assets/images/popular-07.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                </video>              <span class="category">07506112002</span>
+              <span class="likes">دهوك - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
             </div>
             <div class="border-button">
-              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار</a>            
+              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
             </div>
           </div>
         </div>
@@ -434,32 +431,6 @@
           </div>
         </div>
 
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-07.png" alt="">
-              </div>
-              <div class="right">
-                <h4>حسين عبدالله الأسود</h4>
-                <span>بكالوريوس طب وجراحة الفم والاسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <video width="100%" height="395" loading="lazy" controls>
-                  <source src="assets/images/popular-07.mp4" type="video/mp4">
-                  Your browser does not support the video tag.
-                </video>              <span class="category">07506112002</span>
-              <span class="likes">دهوك - ماسيكى - ته نشت مزكه فتا حجى الراهيم</span>
-            </div>
-            <div class="border-button">
-              <a href="/Hussein-Abdullah" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
 
     
 
@@ -680,6 +651,37 @@
            
               
               
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-08.png" alt="">
+              </div>
+              <div class="right">
+                <h4> د.محمد انور                 </h4>
+                <span>
+                  ماستر في معالجة وتجميل الأسنان
+                  بكالوريوس معالجة وتجميل الأسنان
+                </span>
+              </div>
+            </div>
+            <div class="thumb">
+              <video width="100%" height="395" loading="lazy" controls>
+                <source src="assets/images/popular-08.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+
+              <span class="category">
+              07502228090</span>
+              <span class="likes"> مستشفى وان گلوبال- گلي دهوك
+              </span>
+            </div>
+            <div class="border-button">
+              <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
