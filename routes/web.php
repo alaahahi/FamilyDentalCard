@@ -18,7 +18,6 @@ use App\Http\Controllers\HomeController;
 Route::get('/', function () {
     return view('index');
 });
-Route::get('/{id}',[HomeController::class,'index']);
 
 Route::get('/categories', function () {
     return view('categories');
@@ -86,6 +85,7 @@ Route::get('/Exo-Dental', function () {
 Route::get('/Celebrity-Smile', function () {
     return view('doctor.Celebrity-Smile');
 });
+Route::get('/{id}',[HomeController::class,'index']);
 
 Route::get('/greeting/{locale}', function (string $locale) {
     if (! in_array($locale, ['en', 'ar', 'fr'])) {
