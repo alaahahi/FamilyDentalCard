@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\App;
-
+use App\Http\Controllers\HomeController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -14,9 +14,12 @@ use Illuminate\Support\Facades\App;
 |
 */
 
+
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/{id}',[HomeController::class,'index']);
+
 Route::get('/categories', function () {
     return view('categories');
 });

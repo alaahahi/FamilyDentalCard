@@ -346,7 +346,8 @@
               <img src="assets/images/img55.jpg" alt="">
               <span class="category">07508552907
               </span>
-              <span class="likes">ماسيمكي مطعم ديكل
+              <span class="likes">
+                مجاور لفندق زاده، قبل الفرع
               </span>
             </div>
             <div class="border-button">
