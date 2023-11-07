@@ -219,7 +219,54 @@
           </div>
         </div>
 
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-04.png" alt="">
+              </div>
+              <div class="right">
+                <h4> دكتور هوشنگ دينتال كلينك </h4>
+                <span>بكالوريوس طب وجراحة الفم والاسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-04.png" alt="">
+              <span class="category">ماسك جادا 30 متري </span>
+              <span class="likes"><i class="fa fa-heart"></i> 07502101616</span>
+            </div>
+            <div class="border-button">
+              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار</a>
+     
+              
+            </div>
+          </div>
+        </div>
 
+  
+
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-03.png" width="w-100" alt="">
+              </div>
+              <div class="right">
+                <h4>د.عهد نجم الدين عبدالله</h4>
+                <span>بكالوريوس طب وجراحة الفم والاسنان - جامعة الموصل - ماجستير في العلوم الطبية - دهوك</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-03.png" alt="">
+              <span class="category">دهوك - مركز الاوروبي - مقابل ساحة براِ</span>
+              <span  class="likes">07510606142</span>
+
+            </div>
+            <div class="border-button">
+              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار</a>
+            </div>
+          </div>
+        </div>
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -340,54 +387,7 @@
           </div>
         </div>
  
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-04.png" alt="">
-              </div>
-              <div class="right">
-                <h4> دكتور هوشنگ دينتال كلينك </h4>
-                <span>بكالوريوس طب وجراحة الفم والاسنان</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-04.png" alt="">
-              <span class="category">ماسك جادا 30 متري </span>
-              <span class="likes"><i class="fa fa-heart"></i> 07502101616</span>
-            </div>
-            <div class="border-button">
-              <a href="/Pro-Smile-Dental" class="mb-2">قائمة الأسعار</a>
-     
-              
-            </div>
-          </div>
-        </div>
-
-  
-
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-03.png" width="w-100" alt="">
-              </div>
-              <div class="right">
-                <h4>د.عهد نجم الدين عبدالله</h4>
-                <span>بكالوريوس طب وجراحة الفم والاسنان - جامعة الموصل - ماجستير في العلوم الطبية - دهوك</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-03.png" alt="">
-              <span class="category">دهوك - مركز الاوروبي - مقابل ساحة براِ</span>
-              <span  class="likes">07510606142</span>
-
-            </div>
-            <div class="border-button">
-              <a href="/Ahad-Dental" class="mb-2">قائمة الأسعار</a>
-            </div>
-          </div>
-        </div>
+ 
 
 
 
