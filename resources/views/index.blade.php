@@ -283,31 +283,34 @@
             </div>
           </div>
         </div>
-
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-05.png" alt="">
+                <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>د.أنيس محمود</h4>
-                <span>Magic Smile</span>
-                <span>دكتوراه بتقويم الأسنان - ماجستير تقويم الأسنان</span>
+                <h4>د.ندى  العطار</h4>
+                <span>ماجستير</span>
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-06.jpg" alt="">
-              <span class="category">07503043030</span>
-              <span class="likes">
-              مستشفى فين
+              <img src="assets/images/popular-111.jpg" alt="">
+              <span class="category">7504505502
+              </span>
+              <span class="likes">دهوك KRO مجاور مستشفى شيلان
               </span>
             </div>
             <div class="border-button">
-              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار</a>
+              <a href="/Nada-Dental" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
             </div>
           </div>
         </div>
+
+
 
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
@@ -411,7 +414,30 @@
         </div>
 
 
-    
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-05.png" alt="">
+              </div>
+              <div class="right">
+                <h4>د.أنيس محمود</h4>
+                <span>Magic Smile</span>
+                <span>دكتوراه بتقويم الأسنان - ماجستير تقويم الأسنان</span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/popular-06.jpg" alt="">
+              <span class="category">07503043030</span>
+              <span class="likes">
+              مستشفى فين
+              </span>
+            </div>
+            <div class="border-button">
+              <a href="/Magic-Smile" class="mb-2">قائمة الأسعار</a>
+            </div>
+          </div>
+        </div>
 
    
 
@@ -527,32 +553,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
-              </div>
-              <div class="right">
-                <h4>د.ندى  العطار</h4>
-                <span>ماجستير</span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/popular-111.jpg" alt="">
-              <span class="category">7504505502
-              </span>
-              <span class="likes">دهوك KRO مجاور مستشفى شيلان
-              </span>
-            </div>
-            <div class="border-button">
-              <a href="/Nada-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
-            </div>
-          </div>
-        </div>
+
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
