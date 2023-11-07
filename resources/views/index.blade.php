@@ -119,26 +119,30 @@
           <div class="popular-item">
             <div class="top-content">
               <div class="icon">
-                <img src="assets/images/icon-.png" alt="">
+                <img src="assets/images/b-smail-logo.png" alt="">
               </div>
               <div class="right">
-                <h4>Brand Center Dental</h4>
-                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
+                <h4>Zakho B Smile</h4>
+                <span>
+                  بكالوريوس جراحة الأسنان (BDS)
+                  ماستر في معالجة وتجميل الأسنان
+                </span>
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/popular-05.jpg" alt="">
-              <span class="category">07502224922</span>
-              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
+              <img src="assets/images/b-smail1.jpg" alt="">
+              <span class="category">
+               07508503494
+            </span>
+              <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
+              </span>
             </div>
             <div class="border-button">
-              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
-           
-              
-              
+              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار</a>            
             </div>
           </div>
         </div>
+        
         <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
@@ -166,6 +170,28 @@
             </div>
             <div class="border-button">
               <a href="/Mohammed-Anwer" class="mb-2">قائمة الأسعار</a>            
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-lg-6 col-sm-12 mb-4">
+          <div class="popular-item">
+            <div class="top-content">
+              <div class="icon">
+                <img src="assets/images/icon-.png" alt="">
+              </div>
+              <div class="right">
+                <h4>EXO دينتال كلينك</h4>
+                <span></span>
+              </div>
+            </div>
+            <div class="thumb">
+              <img src="assets/images/img90.jpg" alt="">
+              <span class="category">7508090701</span>
+              <span class="likes"> دهوك - فاميلي مول</span>
+            </div>
+            <div class="border-button">
+              <a href="/Exo-Dental" class="mb-2">قائمة الأسعار</a>
             </div>
           </div>
         </div>
@@ -603,33 +629,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-sm-12 mb-4">
-          <div class="popular-item">
-            <div class="top-content">
-              <div class="icon">
-                <img src="assets/images/b-smail-logo.png" alt="">
-              </div>
-              <div class="right">
-                <h4>Zakho B Smile</h4>
-                <span>
-                  بكالوريوس جراحة الأسنان (BDS)
-                  ماستر في معالجة وتجميل الأسنان
-                </span>
-              </div>
-            </div>
-            <div class="thumb">
-              <img src="assets/images/b-smail1.jpg" alt="">
-              <span class="category">
-               07508503494
-            </span>
-              <span class="likes"> زاخو /قرب دورة بارزان  بجانب حلويات باتمان
-              </span>
-            </div>
-            <div class="border-button">
-              <a href="/Be-Smile-Zakho" class="mb-2">قائمة الأسعار</a>            
-            </div>
-          </div>
-        </div>
+       
         
 
         <div class="col-lg-6 col-sm-12 mb-4">
@@ -666,21 +666,23 @@
                 <img src="assets/images/icon-.png" alt="">
               </div>
               <div class="right">
-                <h4>EXO دينتال كلينك</h4>
-                <span></span>
+                <h4>Brand Center Dental</h4>
+                <span>ماجستير في جراحةوامراض ماحول السن و زرع- جاندني ددان الأسنان</span>
               </div>
             </div>
             <div class="thumb">
-              <img src="assets/images/img90.jpg" alt="">
-              <span class="category">7508090701</span>
-              <span class="likes"> دهوك - فاميلي مول</span>
+              <img src="assets/images/popular-05.jpg" alt="">
+              <span class="category">07502224922</span>
+              <span class="likes">دهوك - زهري لاند - بارك تحسن طه</span>
             </div>
             <div class="border-button">
-              <a href="/Exo-Dental" class="mb-2">قائمة الأسعار</a>
+              <a href="/Brand-Center-Dental" class="mb-2">قائمة الأسعار</a>
+           
+              
+              
             </div>
           </div>
         </div>
-             
         {{-- <div class="col-lg-6 col-sm-12 mb-4">
           <div class="popular-item">
             <div class="top-content">
